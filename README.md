@@ -68,7 +68,7 @@ This will go through the process with eval data in `data/to_eval` and create `re
 ```bash
 python evaluation.py --evalset unesco \
     --align_method vecalign \ 
-    --threshs_height_r 1.3 1.3 \
+    --threshs_height_r 1.3 1.3
 ```
 Note: GPU is recommended. You can still run on CPU, but it will take time processing about 100 pages.
 
@@ -121,7 +121,7 @@ It expects to have paired images (PDF) to align in `data` directory (e.g. `data/
 python main.py chunk-detect \
     --pdf_dir data \
     --langs en ja
-    --model_ocr tesseract yomitoku \
+    --model_ocr tesseract yomitoku
 ```
 The code above will create `jpg_pages` directory in which the pdf files are formatted as jpg images. Following the processes, you'll have `result` directory in which the text/layout information is stored in json or txt files in different units; tokens, segments, segments_ordered, chunks. 
 
@@ -131,7 +131,7 @@ Both `--langs` and `--model_ocr` reflect `source` `target` order. Yomitoku is an
 #### (ii) Chunk alignment
 
 ```bash
-python main.py chunk-align --mode align 
+python main.py chunk-align --mode align
 ```
 This will create `result/matches.json` in which the paired chunks are shown. You can add `--thresh_chunk_sim` (default=0.3) for minimum similarity score of aligned chunk pair. `--mode train` will train the score weights with `data/to_dev` data.
 
