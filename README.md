@@ -66,9 +66,7 @@ To demonstrate the experiment from the paper, run the below code.
 This will go through the process with eval data in `data/to_eval` and create `result/eval`. (See [data](data))
 
 ```bash
-python evaluation.py --evalset unesco \
-    --align_method vecalign \ 
-    --threshs_height_r 1.3 1.3
+python evaluation.py --evalset unesco --align_method vecalign --threshs_height_r 1.3 1.3
 ```
 Note: GPU is recommended. You can still run on CPU, but it will take time processing about 100 pages.
 
