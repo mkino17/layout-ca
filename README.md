@@ -51,8 +51,8 @@ This process simply applies an existing sentence alignment model over the chunk-
 
 ##### Clone the repository
 ```bash
-git clone https://github.com/mkino17/layoutca.git
-cd layoutca/
+git clone https://github.com/mkino17/layout-ca.git
+cd layout-ca/
 ```
 
 ##### Libraries
