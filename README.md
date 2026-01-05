@@ -75,7 +75,7 @@ Note: GPU is recommended. You can still run on CPU, but it will take time proces
 |   |     |
 |-------------|-------------------|
 | `--evalset`  |  `unesco` or `shuffled_unesco`   |
-| `--align_method` | `vecalign` or `bleualign` (vecalign is recommended as it's much lighter) |
+| `--align_method` | `vecalign` or `bleualign` (vecalign is recommended as it's lighter) |
 | `--threshs_height_r`  | Height of Section-header where chunk is split (salience ratio)|
 | `--is_ocr_only`  |  If you add this, it will demonstrate the case without using Layout-CA |
 
