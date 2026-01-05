@@ -116,10 +116,7 @@ sent | 1153/1409         | 0.303 0.247 0.272
 
 It expects to have paired images (PDF) to align in `data` directory (e.g. `data/en/sample-en.pdf`, `data/ja/sample-ja.pdf`). 
 ```bash
-python main.py chunk-detect \
-    --pdf_dir data \
-    --langs en ja
-    --model_ocr tesseract yomitoku
+python main.py chunk-detect --pdf_dir data --langs en ja --model_ocr tesseract yomitoku
 ```
 The code above will create `jpg_pages` directory in which the pdf files are formatted as jpg images. Following the processes, you'll have `result` directory in which the text/layout information is stored in json or txt files in different units; tokens, segments, segments_ordered, chunks. 
 
