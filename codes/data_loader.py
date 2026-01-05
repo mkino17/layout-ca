@@ -35,6 +35,8 @@ def pdf_to_jpg_folder(pdf_dir, output_dir, dpi=300, langs=("en", "ja")):
     
     for lang in (langs or ("en", "ja")):
         pdf_files = sorted((base_dir / lang).glob("*.pdf"))
+        if not pdf_files:
+            print(f"PDF not found in {base_dir / lang}")
         out_dir = out_base / lang
         if out_dir.exists():
             shutil.rmtree(out_dir)
