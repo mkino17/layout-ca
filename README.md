@@ -4,17 +4,30 @@ Layout-Based Chunk Alignment
 
 A *chunk* in this framework denotes a coherent textual unit in which readers perceive a continuous narrative or topical theme. In practice, chunks often correspond to articles or sections in journals and similar structured documents.
 
-<!-- <p align="center"><img width="100%" src="PNG/main.PNG" /></p> -->
 
 &nbsp;
 &nbsp;
 
 ## Model Description
 ### Overview
-<!-- <p align="center"><img width="100%" src="PNG/model1.PNG" /></p> -->
 
+<p align="center">
+  <img src="fig/fig1.png" width="47%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="fig/sample-en.jpg" width="15%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="fig/sample-en.jpg" width="15%">
+</p>
+<p align="center">
+  <em>Figure 3: Overview of the Layout-CA pipeline and an example document pair. <br>
+  (See <a href="data">data</a> for more info on material and copyright)</em>
+</p>
 
-&nbsp;
+<!-- <figure>
+  <img src="fig/fig1.png" width="500">
+  <figcaption>
+    Figure 1: Overview of the layout-based chunk alignment pipeline.
+  </figcaption>
+</figure> -->
+
 
 #### (i) Chunk detection
 This process consists of 3 subprocesses, which are orderly OCR & Object Detection, Reading Order Detection, and Chunk Split. See the [paper](#citation) for details. We implemented the pre-trained [YOLO](https://huggingface.co/hantian/yolo-doclaynet). 
