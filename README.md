@@ -80,7 +80,7 @@ Note: GPU is recommended. You can still run on CPU, but it will take time proces
 | `--is_ocr_only`  |  If you add this, it will demonstrate the case without using Layout-CA |
 
 
-Output will be like below.
+Output will look like the following.
 
 <details>
 
