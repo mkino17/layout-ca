@@ -427,8 +427,6 @@ def run_pipeline(evalset, is_ocr_only, align_method, threshs_height_r):
         out_dir=".",
         model_ocr=model_ocr,
         model_od="yolo",
-        path_ndl_lite="tools/ndlkotenocr-lite",
-        path_ndlocr="tools/ndlocr_cli",
         path_yolo=[path_yolo_src, path_yolo_tgt],
         dpi=300,
         threshs_height_r=threshs_height_r,
