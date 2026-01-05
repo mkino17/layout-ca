@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ## Evaluation
 
 To demonstrate the experiment from the paper, run the below code. 
-This will go through the process with eval data in `data/to_eval` and create `result/eval`. 
+This will go through the process with eval data in `data/to_eval` and create `result/eval`. (See [data](data))
 
 ```bash
 python evaluation.py --evalset unesco \
