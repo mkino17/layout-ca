@@ -1,0 +1,30 @@
+{
+  "weights": {
+    "Title": -0.00019987155748664377,
+    "Section-header": 2.2550856610521066,
+    "Text": 1.9325938175898845,
+    "List-item": 0.5171424906950153,
+    "Formula": -0.00019987155748664377,
+    "Picture": -0.00019987155748664377,
+    "Table": 0.38088819996275536,
+    "Caption": -0.00019987155748664377,
+    "Footnote": 0.06571491044993967,
+    "Page-header": 0.5098568164799452,
+    "Page-footer": 1.1569595324113993
+  },
+  "lambdas": {
+    "Title": 0.0,
+    "Section-header": 0.0,
+    "Text": 0.0,
+    "List-item": 0.0,
+    "Formula": 0.0,
+    "Picture": 0.0,
+    "Table": 0.0,
+    "Caption": 0.0,
+    "Footnote": 0.0,
+    "Page-header": 0.0,
+    "Page-footer": 0.0
+  },
+  "bias": -5.441827771477866,
+  "train_f1": 0.5
+}

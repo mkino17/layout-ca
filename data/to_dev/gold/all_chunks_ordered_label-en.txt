@@ -1,0 +1,1307 @@
+<Text> Original version © UNESCO.
+
+<Text> The present work is not an official UNESCO publication and shall not be considered as such. Masaki Kinouchi edited the publications with permission from UNESCO. Added texts are enclosed in a gray box, and original photographs, illustrations, logos and figures have been covered to preserve copyright. This material is available in Open Access under the Attribution ShareAlike 3.0 |GO (CC-BY-SA 3.0 IGO) license (http://creativecommons.org/licenses/by-sa/3.0/igo/).
+
+<<<CHUNK>>>
+
+<Section-header> Monitoring education in the Sustainable Development Goals
+
+<Section-header> KEY MESSAGES
+
+<Text> More children are in school and progressing through education today than ever before.
+
+<List-item> • The participation of children under 3 in education has increased globally and, most notably, by over 10 percentage points in sub-Saharan Africa over the past decade.
+
+<List-item> • Since 2015, 110 million more children, adolescents and youth have gone to school.
+
+<List-item> • Completion rates are also rising: 40 million more young people are completing secondary school today than in 2015.
+
+<List-item> • Since 2010, the tertiary education gross enrolment ratio has increased from 30% to 43% and even faster in Latin America and the Caribbean and in Eastern and South- eastern Asia.
+
+<Text> But those left behind are the hardest to reach, leading to stagnation and, in cases of conflict, a reversal of education development.
+
+<List-item> • Enrolment at age 5 has stagnated at around 75% for the past decade.
+
+<List-item> • Globally, 251 million children and youth remain out of school, a reduction of just 1% since 2015, of which 129 million are boys and 122 million are girls. Exclusion is exacerbated by social norms and poverty: Around 6 in 10 children, adolescents and youth are out of school in Afghanistan and Niger.
+
+<List-item> • Too many children start school late and repeat grades in sub-Saharan Africa: 26% are at least two years too old for their grade in primary school; 35% are over-age in lower secondary school.
+
+<List-item> • The secondary completion rate has increased from 53% in 2015 to 59% in 2023. Globally, 650 million leave school without a secondary school certificate.
+
+<List-item> • Gender gaps in secondary completion rates have been eliminated globally, but remain wide in sub-Saharan Africa, where the pace of progress over the past decade has been half of that in Central and Southern Asia, the only other region where girls are behind boys.
+
+<List-item> • The percentage of adults with at least secondary completion has increased on average by 5 percentage points in the past 10 years. At this rate, it would take another 80 years to achieve universal secondary completion.
+
+<List-item> • Only 3% of adults participate in education and training. Participation rates have fallen in more than half of the countries with trend data available since 2015.
+
+<List-item> • Attacks on schools totaled some 3,000 in 2022, exacerbated by the war in Ukraine, and again in 2023 by the war in the State of Palestine. As of July 2024, 61% of schools in Gaza had been hit directly.
+
+<Text> Standards for teachers are often too low or not met.
+
+<List-item> • Insufficient teachers in classrooms can be due toa shortage of applicants or a shortage of vacancies. The first is more common in rich countries: only 4% of 15-year-olds in the richest countries want to become teachers; the second in poorer countries: in Senegal, there was a Surplus of over 1,000 qualified teachers in 2020 alone.
+
+<List-item> • Many teachers do not have the minimum required qualifications. In sub-Saharan Africa, the share has dropped from 70% in 2012 to 64% in 2022. In Europe and Northern America, it has dropped from 98% in 2010 to 93% in 2023.
+
+<List-item> • Standards vary across regions. Most countries require teachers to have a bachelor’s degree to teach in primary education, while 17% of sub-Saharan African countries accept a lower secondary certificate.
+
+<Text> Learning outcome levels were declining even before COVID-19 but the pandemic coincides with an acceleration of that trend.
+
+<List-item> • It is difficult to establish trends, as there remains an acute data gap globally: low coverage of learning assessments means there is no information on 680 million children.
+
+<List-item> • Evidence from 70 upper-middle and high-income countries that took part in the 2022 PISA (at the end of lower secondary school) shows that the share of students proficient in reading fell by 9 percentage points from 2012 to 2018 and by 3 more points to 47% in 2022.
+
+<Page-footer> 18
+
+<Page-footer> SUMMARY
+
+<List-item> • The share of these students proficient in mathematics increased by 2 percentage points from 2012 to 2018 but fell by 8 points to 36% in 2022. A long-term decline may have been ongoing since 2009. COVID-19 may have accelerated the decline but might mask other structural factors.
+
+<List-item> • Evidence from 6 sub-Saharan African countries that took part in the 2021 and 2023 AMPL surveys (at the end of primary school) shows that only about 1 in 10 students reached the minimum proficiency level in reading and 2 in 10 in mathematics.
+
+<Text> Technology helps learners access education who previously could not but brings new issues.
+
+<List-item> • In upper secondary education, 8 in 10 schools are connected to the internet. Countries’ progress towards their connectivity benchmarks is only three percentage points off track.
+
+<List-item> • There are major gaps between countries in familiarity with basic computer-related activities: 8 in 10 adults in high-income countries but only 3 in 10 adults in middle- income countries can send an email with an attachment.
+
+<List-item> • With respect to smartphone-related activities, 51% of youth and adults could set up security measures for digital devices in high-income countries compared to 9% in middle-income countries.
+
+<List-item> • Formal education is linked to higher digital skills acquisition. In the European Union, the share of adults with basic digital skills rises from 34% among those with lower secondary education to 51% for those with upper secondary education and 80% for those with post- secondary education.
+
+<List-item> • A faster increase in the prevalence of bullying for girls than for boys aligns with their higher vulnerability to cyberbullying. Girls are at higher risk, at least partly because they spend more time on social media.
+
+<Text> Climate change poses challenges to infrastructure and curricula.
+
+<List-item> • Globally, almost one in four primary schools do not even have access to basic drinking water, sanitation and hygiene, yet governments need to also make more extensive investments to protect students and schools from rising temperatures and natural disasters.
+
+<List-item> • Anew indicator which monitors green education content shows that climate change education needs to be taught more in the earlier grades and across more subjects than just science.
+
+<Text> National and international investment in education is declining.
+
+<List-item> • Globally, public education expenditure fell by 0.4 percentage points of GDP between 2015 and 2022: the median level fell from 4.4% to 4%.
+
+<List-item> • The share of education in total public expenditure decreased by 0.6 percentage points from 13.2% in 2015 to 12.6% in 2022.
+
+<List-item> • The growing weight of debt servicing has implications for education spending. Sub-Saharan African countries spent almost as much on debt servicing in 2022 as they did on education.
+
+<List-item> • In terms of the twin international benchmarks of spending at least 4% of GDP and at least 15% of public expenditure for education, 59 out of 171 countries met neither target.
+
+<List-item> • Education spending per child has largely stayed the same since 2010.
+
+<List-item> • The share of aid going to education dropped from 9.3% in 2019 to 7.6% in 2022.
+
+<Section-header> INTRODUCTION
+
+<Text> The first Conference on Education Data and Statistics (EDS Conference) was organized by the UNESCO Institute for Statistics in February 2024 in Paris, in collaboration with the Global Education Monitoring Reportteam. It was attended by representatives from 130 countries. It had three key objectives: to establish an international community of practice of education statisticians guiding the Technical Cooperation Group (TCG) on SDG 4 indicators; to communicate, discuss and reach consensus on concepts, definitions, methodologies and operational aspects of indicator measurement in the form of recommendations and guidelines for adoption as international standards; and to debate the impact of technological developments on education statistics. It was the inaugural conference of a series, which will convene every three years and whose decisions will be implemented by the TCG, now renamed the Education Data and Statistics Commission. The EDS Conference filled an important gap. To compare, the International Conference of Labour Statisticians, which has been leading the work on standardizing labour statistics, celebrated its centenary in 2023.
+
+<Text> The second edition of the SDG 4 Scorecard was launched at the EDS Conference. It is the annual snapshot of country progress towards their 2025 and 2030 national targets, or benchmarks, a process that is well established by now. To date, 77% of countries have submitted at least one benchmark and another 7% of countries, which are members of the Caribbean Community and the European Union, have committed through their regional targets.
+
+<Page-footer> 2024/5 • GLOBAL EDUCATION MONITORING REPORT 
+
+<Page-footer> 19
+
+<Text> In total, countries have set 54% out of all possible target values for 2025 and 2030. The indicators with the highest benchmark submission rates are the early childhood education participation rate (72%) and the upper secondary completion rate (70%). The lowest submission rates are observed for the gender gap in upper secondary completion (36%) and the new benchmark indicator on school internet connectivity (33%).
+
+<Text> When the UN General Assembly adopted the SDG global indicator framework in 2017, it scheduled two Comprehensive Review processes to be led by the Inter-agency and Expert Group on SDG Indicators. The first (2019-20), during which the completion rate was adopted as a global indicator, focused on indicator methodology. The second is taking place in 2024—25 and focuses on indicator coverage: data must be available for at least 40% of countries and of the population, at least in the regions where the indicator is relevant. This criterion affects several SDG 4 indicators, notably: the percentage of children developmentally on track (4.2.1), functional literacy and numeracy proficiency (4.6.1), and the minimum proficiency in reading and mathematics (4.1.1). The last indicator has sufficient coverage at the end of primary (b) and lower secondary (c) levels, but data are available for only 16% of the population and 20% of countries at the grade 2/3 (a) level. Efforts are underway to ensure more countries collect such data but also to enable some assessments, which currently do not meet the reporting criteria for the minimum proficiency level, to report on some of its precursor skills.
+
+<Section-header> TARGET 4.1. PRIMARY AND SECONDARY EDUCATION
+
+<Text> It is estimated that 251 million children and youth were out of school in 2023. Although about 110 million more children, adolescents and youth have enrolled in school since 2015, the out-of-school population has declined by just 3 million, or 1%, at the same time (Figure 5). In contrast, in the 8 years before 2015, the out-of-school population had declined by 43 million, or by 14%. The rate of progress has therefore slowed down by over 90%. This estimate does not capture some populations affected by crisis where data collection processes have broken down. By one estimate, adding the potential out-of-school population in five of the countries with the largest emergencies — Burkina Faso, Myanmar, the State of Palestine, South Sudan and Sudan — would increase the out-of-school population by 5.5 million.
+
+<Text> The out-of-school rate fell from 17.2% in 2015 to 16.1% in 2023. Among school-age children, adolescents and youth, it was 33% in low-income, 19% in lower-middle-income, 8% in upper-middle-income and 3% in high-income countries.
+
+<Section-header> FIGURE 5:
+
+<Text> Since 2015, the out-of-school population has stagnated
+
+<Text> (Figure)
+
+<Text> GEM StatLink: https:/bit.ly/GEM2024_Summary_fig5 Source: VIEW database.
+
+<Text> Globally, about 10% of primary school age children, 14% of lower secondary school age adolescents and 30% of upper secondary school age youth are out of school. Stagnation kicked in around or shortly before 2015. This predates COVID-19 and does not appear to be related to it.
+
+<Text> Completion rates have steadily increased, albeit slowly. The primary completion rate increased from 85% to 88%, or by 3.1 percentage points between 2015 and 2023, and the lower secondary completion rate increased from 74% to 78%, or by 4 percentage points. The upper secondary completion rate increased from 53% to 59%, or by 5.9 percentage points, which is equivalent to an annual growth of 0.7 percentage points. Considering those who complete each cycle late would increase the completion rate by 4.4 percentage points in primary and lower secondary education and by 3.3 percentage points in upper secondary education. This means, for example, that ultimately 62% of youth complete upper secondary school. Sub-Saharan Africa is the region with the largest discrepancy between timely and ultimate completion rates. In 2023, 67% of children had completed primary school on time but 78% did with several years of delay, a difference of 10.4 percentage points.
+
+<Text> Globally, it is estimated that 58% of students achieve the minimum proficiency level in reading and 44% in
+
+<Page-footer> 20
+
+<Page-footer> SUMMARY
+
+<Section-header> FIGURE 6:
+
+<Text> Since 2012, the percentage of students achieving minimum proficiency has fallen by 12 percentage points in reading and 6 percentage points in mathematics
+
+<Text> (Figure)
+
+<Text> GEM StatLink: https:/bit.ly/GEM2024_Summary_fig6 Source: GEM Report team analysis based on PISA data.
+
+<Text> mathematics at the end of primary school. Similarly, 64% of students achieve the minimum proficiency level in reading and 51% in mathematics at the end of lower secondary school. There has been much attention on the potential impact of COVID-19 on learning outcomes due to the disruption caused by school closures. The release of the 2022 PISA, which assesses students at the end of lower secondary school, provides an opportunity to address this question. In the case of reading, the share of students who achieved the minimum proficiency level fell by 9 percentage points from 2012 to 2018 and by a further 3 points in 2022 (Figure 6a). In the case of mathematics, the percentage of students who achieved the minimum proficiency level increased by 2 percentage points from 2012 to 2018 but there was a fall by 8 points in 2022 (Figure 6b).
+
+<Section-header> TARGET 4.2. EARLY CHILDHOOD
+
+<Text> Over the past decade, participation in early childhood education has increased for younger children (aged O-3) but remained relatively stable for older ones. Between
+
+<Text> 2013 and 2023, the share of children enrolled in education one year before the official primary entry age has stagnated at around 75%, although it increased by about 7 percentage points in Northern Africa and Western Asia (to 51%) and sub-Saharan Africa (to 49%), the two regions lagging furthest behind.
+
+<Text> Early entry into primary education hinders analysis of SDG global indicator 4.2.2, which does not distinguish between those enrolled in pre-primary education and those who enter primary education a year early. In at least 49 countries, over 5% of children are enrolled in primary education one year earlier than the official entry age for that level (Figure 7). Excluding children enrolled in primary education would lead to a 20% drop to the value of the indicator. In Burundi, where the official entry age for primary education is 7, nearly 90% of 6-year-olds enrolled are in primary instead of pre-primary education. In Burkina Faso, the net enrolment of children one year younger than the official primary entry age increased considerably from 3% in 2011 to 21% in 2020. However, much of this increase was due to an increase in early enrolment in primary education.
+
+<Page-footer> 2024/5 = GLOBAL EDUCATION MONITORING REPORT 21
+
+<Page-footer> 21
+
+<Section-header> FIGURE 7:
+
+<Text> Many children are enrolled in primary education one year before the official entry age
+
+<Text> (Figure)
+
+<Text> Note: Countries shown have at least 5% of children enrolled in primary education one year before the official entry age. GEM StatLink: https:/bit.ly/GEM2024_Summary_fig7 Source: UIS database.
+
+<Text> Pre-primary attendance is associated with better overall child development. Results from UNICEF’s new monitoring tool, the Early Childhood Development Index 2030, show that children who are richer and those attending pre-school are more likely to be developmentally on track. In Eswatini, 74% of children attending pre-primary education are developmentally on track, compared to 38% of those not attending. Supportive home environments can improve
+
+<Text> child development, including school readiness, early literacy and numeracy skills, and social and emotional skills. However, in at least 10 sub-Saharan African countries, over 30% of children were left under inadequate supervision. Moreover, caregivers need training. A survey of caregivers in low- and middle-income countries found that only half engaged in key activities essential for stimulating learning and school readiness.
+
+<Page-footer> 22
+
+<Page-footer> SUMMARY
+
+<Text> Preschool leadership is important, particularly pedagogical leadership, although many preschool leaders have no preparation or requirements to work to. Administrative tasks often dominate. In Israel and Turkiye, ECCE leaders spend less than 20% of their time on pedagogical leadership.
+
+<Section-header> TARGET 4.3. TECHNICAL, VOCATIONAL, TERTIARY AND ADULT EDUCATION
+
+<Text> The median adult participation rate in formal and non-formal education and training is 3%. The share exceeds 5% in 40 countries and 10% in 15 mostly high-income countries. For 78 countries with data in 2013 and 2023, the median adult participation rate fell by 0.5 percentage points. This mainly reflects the fact that the data for high-income countries, which have high levels of participation and high levels of reporting, refer to 2022 and were still bearing the impact of COVID-19. In terms of gender gaps, the situation in rich countries contrasts with that in poor countries. In high-income countries, 73 men participate in education and training for every 100 women whereas in low-income countries, only 50 women participate for every 100 men.
+
+<Text> The median youth enrolment rate in technical and vocational education and training (TVET) increased from 2% to 5% between 2010 and 2023. In 38 countries with available data, there were about 80 women enrolled in TVET for every 100 men, while basically the opposite was true in higher education. In eight countries, men were more likely than women to participate in both tertiary and TVET and, in six countries, women outnumbered men in both. The tertiary education gross enrolment ratio increased from 30% in 2010 to 37% in 2015 and 43% in 2023. Enrolment ratios increased rapidly in this period in Latin American and the Caribbean (by 16 percentage points) and in Eastern and South-eastern Asia (by 34 percentage points). In contrast, the ratio decreased in Oceania and stagnated in sub-Saharan Africa.
+
+<Text> Higher education leaders are confronted with major challenges such as rapid technological change, political instability, pressures on public spending, higher student diversity and more scrutiny. Yet they often do not have the autonomy to take decisions. Almost 40% of countries do not recognize institutional autonomy by law. Most leaders are academics who were promoted with little to no management training, although various countries are addressing this with training. Women are under-represented in higher education leadership, making up only 25% of the top 200 higher education universities worldwide.
+
+<Section-header> TARGET 4.4. SKILLS FOR WORK
+
+<Text> Globally, data on information and communication technology (ICT) skills are unevenly collected, with much higher coverage in richer countries. Among those reporting in 2021, the acquisition of ICT skills is unevenly distributed. For instance, 80% of youth and adults in the median high-income country could send an email with an attachment compared to 32% in middle-income countries. New activities are being monitored related to smartphone use, although data are available for fewer countries. Among high-income countries, 38% of youth and adults could verify the reliability of online information compared to 10% in middle-income countries. Formal education is important for acquiring digital skills. In the European Union, the share of adults with basic digital skills ranged from 34% among those who had at most completed lower secondary education to 51% among those who had completed upper secondary education and 80% among those who had some post-secondary education.
+
+<Text> In the average country, the share of the population with at least secondary school attainment increased by 0.5 percentage points per year between 2012-13 and 2022-23. At this pace, it would take 80 years to achieve universal secondary completion. But there is also significant variation within each group of countries. For example, among countries whose starting point was below 20% in 2012-13, India increased by 18 percentage points in 10 years whereas Guatemala, Niger and Senegal almost stagnated. Among countries whose starting point was between 20% and 40% in 2012-13, Malta increased by 21 points and Portugal by 16 points in 10 years while the Dominican Republic and Honduras stagnated. This means that despite some clear average trends, no country’s trajectory is predetermined.
+
+<Text> Leadership skills and behaviours can be acquired through education. Leadership training has expanded from an exclusive activity for a few adult students to being more comprehensive, while expanding its objectives to prepare the future generation, not just for business but also for social advocacy. It is important to acknowledge the social factors that shape leadership skills and provide equal opportunities for all youth to develop these skills.
+
+<Section-header> TARGET 4.5. EQUITY
+
+<Text> Globally, gender parity has nearly been achieved on average in out-of-school rates since 2015. However, more boys than girls remain out of school in Eastern and South-eastern Asia, Europe and Northern America, and Latin America and the Caribbean, where disparity has widened: from 107 boys in 2015 to 113 boys for every 100 girls out of school in 2023.
+
+<Page-footer> 2024/5 = GLOBAL EDUCATION MONITORING REPORT 23
+
+<Page-footer> 23
+
+<Text> Gender parity has also been maintained globally in primary and lower secondary completion since 2015 but there has been a reversal in upper secondary education: 97 young women were completing for every 100 young men in 2010 but 97 young men were completing for every 100 young women in 2020. There are two regions remaining with disparity at the expense of girls in upper secondary completion, but Central and Southern Asia has moved towards parity at twice the rate as sub-Saharan Africa. The location gap has also narrowed: in 2010, 41 youth in rural areas were completing upper secondary school for every 100 youth in urban areas; by 2022, this ratio had improved to 67 rural for every 100 urban youth.
+
+<Text> In high-income countries, there are 88 males achieving minimum proficiency in reading for every 100 females, while in middle-income countries there are only 72 males for every 100 females reaching that level. On average, there are no substantial gender differences in mathematics proficiency. But only 47 students from the lowest socio-economic group achieved minimum proficiency in mathematics for every 100 students from the highest socio-economic group. Such disparities also affect European counties: in Finland, Malta, Poland, Spain and Switzerland, 60 students from the lowest quintile achieve minimum proficiency for mathematics for every 100 students from the richest quintile.
+
+<Text> In 2015, the median percentage of children receiving instruction in their home language in early grades was 84%; the median dropped slightly to 82% by 2022. Data at the end of primary school are more limited, but African countries including Cameroon, Chad, Congo and Cote d'Ivoire have shown the significant increases in the share of students at the end of primary school receiving instruction in their home language.
+
+<Section-header> TARGET 4.6. YOUTH AND ADULT LITERACY
+
+<Text> Literacy rates have progressed over the past decades through generational shifts. Low- and lower-middle income countries show the greatest difference in literacy rates across generations, reflecting sharply increasing trends in education participation. In India, where data come from national household or labour force surveys, the difference in literacy rates between the younger (aged 15 to 24) and the older (65 or above) cohorts is above 45 percentage points. In Mozambique, where data for all age groups come from the Household Budget Survey, the literacy rate of the adult population (56%) is nearly double that of the elderly population (29%).
+
+<Text> As many countries achieve close to universal literacy for their young populations, disparities across gender, income
+
+<Text> and location tend to disappear. In Nepal, only 24 elderly women are literate for every 100 elderly men. The gender gap reduces to 73 to 100 for those aged 25 to 64 and has reached parity among those aged 15 to 24. But pockets of disadvantaged groups with low literacy rates can be found, even in countries with overall high levels of literacy. In Peru, for example, 95% of adults are literate, but the same is true for only 78% of women in rural areas and 84% of women from the poorest wealth quintile.
+
+<Text> Family literacy policies should take a long-term approach to changing cultures of learning, particularly among disadvantaged families and communities; be comprehensive and well-resourced to allow for sustainability; work towards greater inclusion and thereby close social, gender, ethnic and digital gaps; promote partnership and collaboration by reaching across departments, ministries and institutions; and use a lifelong learning perspective to motivate disadvantaged learners to engage and remain engaged in literacy learning.
+
+<Section-header> TARGET 4.7. SUSTAINABLE DEVELOPMENT AND GLOBAL CITIZENSHIP
+
+<Text> The Global Education Monitoring Reportteam, the Monitoring and Evaluating Climate Communication and Education (MECCE) Project, and UNESCO have collaborated to analyse the prevalence of green content in national curriculum frameworks and the syllabi of science and social science subjects. Among 76 countries, 34% of countries did not include green content in grade 3 social science syllabi, compared to 21% in grade 6 and 16% in grade 9 (Figure 8). Richer countries and countries more vulnerable to the effects of climate change do not necessarily include more green content.
+
+<Text> The percentage of schools that provides life skills-based HIV and sexuality education has been relatively stable over time. Almost 80 countries report against the indicator. Of those, one third report that all schools at every level of education provide life skills-based HIV and sexuality education, including Burundi, Thailand and Uruguay. In 10% of countries, including Algeria, Mauritania and Uganda, there are no schools at any level which provide this type of knowledge. Only 9% of countries have no upper secondary schools providing life skills-based HIV and sexuality education, compared to 25% of primary schools.
+
+<Text> Civic education programmes must address two particular challenges: first, declining voter turnout (e.g. from 77% in the 1960s to 67% after 2010 globally), despite growing levels of education; and second, large gender and socioeconomic gaps in political aspirations and intended participation. Girls often grow up convinced that political leadership is
+
+<Page-footer> 24
+
+<Page-footer> SUMMARY
+
+<Section-header> FIGURE 8:
+
+<Section-header> Syllabi are more likely to include green content in lower secondary than in primary education
+
+<Section-header> (Figure)
+
+<Section-header> GEM StatLink: https:/bit.ly/GEM2024_Summary_fig8 Source: GEM Report, MECCE project and UNESCO database.
+
+<Text> predominantly a male activity. In the United States, in an experiment in which children were asked to draw a political leader, the likelihood that girls would draw a man increased with age, from 47% among 6-vyear-olds to 75% among 12-year-olds, while the percentage of boys who did the same was Stable at each age, at just above 70%. Studies of the link between education and political participation have been mostly inconclusive. Beyond classroom instruction, extracurricular activities and the school's ethos can affect civic learning and shape identity formation (ethnic, political or any other sort of self-image), agency and self-efficacy.
+
+<Section-header> TARGET 4.A. EDUCATION FACILITIES AND LEARNING ENVIRONMENTS
+
+<Text> In 2023, 77% of primary schools had access to basic drinking water globally. Coverage was similar for basic sanitation and hygiene services. Global progress has been slow, but a few countries have considerably improved since 2015. In Rwanda, the share of primary schools with access to a handwashing facility increased from 40% in 2015 to 100% since 2021.
+
+<Text> In 34 of the 66 countries with available data, bullying increased by at least 2 percentage points for girls between 2018 and 2022. The same was true for boys in only
+
+<Text> 22 countries. In Turkiye, the share of 15-year-old girls who experienced bullying increased by 18 percentage points compared to 7 percentage points for boys.
+
+<Text> The top 10 countries by number of attacks represented 68% of the global attacks on education in 2022 and 80% in 2023. Since 2013, Afghanistan and the State of Palestine have each suffered over 100 attacks on education every year except for one. In 2023, the State of Palestine suffered 720 attacks on education.
+
+<Text> In 2022, 418 million children were receiving school meals globally, 30 million more than in early 2020, before the COVID-19 pandemic. Coverage varies widely, from less than 5% of primary school children in Algeria and Cameroon to nearly 100% in several European and Latin American countries. These estimates tend to ignore that many students attend private schools. The Gambian school meal programme covers 47% of students enrolled but, given that one third of primary school students are enrolled in private institutions, the coverage of public school students is 70%.
+
+<Text> Dealing with rising temperatures that harm students’ well-being and hamper their ability to focus has been a major concern in many countries. Solutions range from high-cost items, such as air conditioning, to simpler steps such as painting exterior walls white and using blinds and awnings. In Indonesia, replacing dark roofs with a coating of white paint reduced inside temperatures by over 10°C. Climate-related hazards such as wildfires, storms, floods, droughts and rising sea levels can devastate education systems. Pacific Island states make up 5 of the top 10 countries with the highest economic losses resulting from damaged or destroyed critical infrastructure, including schools, which were attributed to disasters.
+
+<Section-header> TARGET 4.B. SCHOLARSHIPS
+
+<Text> In 2022, USD 4.6 billion of official development assistance (ODA) was disbursed in the form of scholarships and imputed student costs, a 31% increase compared to 2015. Scholarship levels declined sharply by 26% between 2019 and 2021 as a result of the COVID-19 pandemic and, despite recovering, were still slightly below the 2019 levels in 2022.
+
+<Text> Globally, the number of outbound international students has tripled since 2000. Among the regions highlighted in SDG target 4b, the number of outbound international students grew slower than the global pace in Africa and Small Islands Developing States and at a faster pace in the Least Developed Countries. France and Germany are the main donors who report scholarships and, especially, student imputed cost spending as ODA. In Africa, France accounts for almost two thirds of the total ODA and Germany for almost one third of the remainder. Other countries that
+
+<Page-footer> 2024/5 = GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 25
+
+<Text> allocate ODA for scholarships include Hungary (which spent USD 31 million for students from Africa), the Republic of Korea (which spent USD 22.5 million for students from Least Developed Countries), and Australia and New Zealand (which spent USD 23.5 million for students from Small Island Developing States).
+
+<Text> The share of ODA for scholarships from countries that are not members of the OECD Development Assistance Committee rose from 1% in 2014 to 9% in 2022. Qatar, Romania, Saudi Arabia and Turkiye have significantly increased their ODA on scholarships, from just USD 29 million in 2013 to USD 450 million in 2022. Since 2018, a large part of ODA has gone to Syrian students. China has developed into being a major scholarship provider for students from developing countries, although calculating the flows is not straightforward.
+
+<Section-header> TARGET 4.C. TEACHERS
+
+<Text> The share of teachers with the minimum required qualifications has been decreasing worldwide. At the primary level, the share has decreased from 90% in 2010 to 85% in 2023, as the total number of teachers increased by over 5 million. In Europe and Northern America, the share of teachers with minimum qualifications has gradually decreased from 98% in 2010 to 93% in 2023.
+
+<Text> Teacher shortages are a global phenomenon, but they can stem from two different challenges: an insufficient supply of teachers (not enough qualified candidates) or an insufficient demand for teachers (not enough vacancies are created). These two challenges are often conflated because they lead to common outcomes, such as high pupil/teacher ratios, a high share of non-qualified or non-trained teachers, the strong prevalence of teaching ‘out of field’ (i.e. a subject unrelated to the teacher's specialization), double shifts and multigrade classes. Teacher shortages in rich countries tend to come from the supply side, with low interest among young people in the profession and falling enrolment in teacher preparation programmes. In Australia, the number of graduates from initial teacher education declined by 17% between 2017 and 2020, and aseries of reforms, including scholarships for teacher education programmes, have been introduced. By contrast, in some poor countries, the number of qualified teaching candidates surpasses the number of available teaching positions. In Senegal, where around 25% of teachers do not have the minimum required qualifications, the government only hired 2,000 of the 3,000 candidates who successfully passed the competition to become teachers in 2020.
+
+<Text> In-service training is a key factor in retaining teachers, yet only 45% of countries have a policy on compulsory continuous development for pre-primary education and
+
+<Text> 53% have one for primary and secondary education. Richer countries are both more likely to have a higher academic requirement for teachers and to mandate compulsory professional development.
+
+<Section-header> FINANCE
+
+<Text> In 2022, global education spending, which aggregates contributions from governments, donors and households, increased by 0.8% to USD 5.8 trillion, despite a fall in government spending, from USD 4.39 trillion to USD 4.33 trillion. Globally, public education expenditure levels have fallen by 0.3 to 0.4 percentage points of GDP between 2015 and 2022: the median level has fallen from 4.4% to 4% and the mean level has fallen from 4.6% to 4.3%. Taking the median as a measure, public education expenditure has increased rapidly in low-income countries from 2.6% in 2010 to 3.2% in 2015 and 3.8% in 2022. In contrast, it fell from 4.5% in 2013 to 3.5% in 2021 in lower-middle-income countries (Figure 9.a).
+
+<Text> Total public education spending as a share of GDP is the product of two indicators: the volume of total public expenditure and the priority governments assign to education in their budget. The latter has declined by 0.6 percentage points from 13.2% in 2015 to 12.6% in 2022, in other words by more than the fall in total public expenditure on education as a share of GDP. The share of education in total public expenditure increased in low-income countries from 13.2% in 2015 to 15.6% in 2022 but fell rapidly from 17.1% in 2011 to 13.8% in 2022 in lower-middle-income countries, a possible impact of the growing debt crisis (Figure 9.b). Relative to the twin international benchmarks of spending at least 4% of GDP and at least 15% of public expenditure for education, 59 out of 171 countries met neither target, while only 34 met both.
+
+<Text> In the context of the constant pressure on education budgets, it is becoming more difficult to offer competitive pay packages to attract talented individuals to become school principals. Nevertheless, a few countries, including Italy (from already high levels) and Latvia (from low levels), have significantly increased salaries for principals in recent years. Italy introduced a reform of school leadership autonomy, which significantly improved principals’ salaries.
+
+<Text> Total aid to education reached a record high of USD 16.6 billion in 2022, up from USD 14.3 billion in 2021, growing in real terms by 16% year on year. Despite the increase in the overall volume of aid to education, the share of education in total ODA, which increased from 8.2% in 2013 to 9.3% in 2019, has fallen, reaching 7.6% in 2022. Climate finance, a potentially critical source to address the impact of climate change, has not been tapped at all in education.
+
+<Page-footer> 26
+
+<Page-footer> SUMMARY
+
+<Section-header> FIGURE 9: Global public education expenditure has fallen since 2015
+
+<Text> (Figure)
+
+<Text> GEM StatLink: https:/bit.ly/GEM2024_Summary_fig9 Source: EFW database.
+
+<Text> Households contribute about one quarter of global education expenditure, a share which has slightly increased in recent years. Households allocated a median of 2.9% of their household budgets to education in lower-middle-income countries compared to 1.3% in high-income countries. In some countries, such as India, household education
+
+<Text> spending increased from 2.1% to 2.8% of GDP between 2010 and 2021, while in others like Kenya, it dropped from 4.3% to 3% over the same period. Regional differences are stark; for example, households in Namibia spend six times more on education than those in Senegal.
+
+<Page-footer> 2024/5 = GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 27
+
+<<<CHUNK>>>
+
+<Section-header> KEY MESSAGES
+
+<Text> Good, impartial evidence on the impact of education technology is in short supply.
+
+<List-item> • There is little robust evidence on digital technology's added value in education. Technology evolves faster than it is possible to evaluate it: Education technology products change every 36 months, on average. Most evidence comes from the richest countries. In the United Kingdom, 7% of education technology companies had conducted randomized controlled trials, and 12% had used third-party certification. A survey of teachers and administrators in 17 US states showed that only 11% requested peer-reviewed evidence prior to adoption.
+
+<List-item> • Alot of the evidence comes from those trying to sell it. Pearson funded its own studies, contesting independent analysis that showed its products had no impact.
+
+<Section-header> Technology offers an education lifeline for millions but excludes many more.
+
+<List-item> • Accessible technology and universal design have opened up opportunities for learners with disabilities. About 87% of visually impaired adults indicated that accessible technology devices were replacing traditional assistive tools.
+
+<List-item> • Radio, television and mobile phones fill in for traditional education among hard-to-reach populations. Almost 40 countries use radio instruction. In Mexico, a programme of televised lessons combined with in-class support increased secondary school enrolment by 21%.
+
+<List-item> • Online learning stopped education from melting down during COVID-19 school closures. Distance learning had a potential reach of over 1 billion students; but it also failed to reach at least half a billion, or 31% of students worldwide — and 72% of the poorest.
+
+<List-item> • The right to education is increasingly synonymous with the right to meaningful connectivity, yet access is unequal. Globally, only 40% of primary, 50% of lower secondary and 65% of upper secondary schools are connected to the internet; 85% of countries have policies to improve school or learner connectivity.
+
+<Section-header> Some education technology can improve some types of learning in some contexts.
+
+<List-item> • Digital technology has dramatically increased access to teaching and learning resources. Examples include the National Academic Digital Library of Ethiopia and National Digital Library of India. The Teachers Portal in Bangladesh has over 600,000 users.
+
+<List-item> • It has brought small to medium-sized positive effects to some types of learning. A review of 23 mathematics applications used at the primary level showed that they focused on drill and practice rather than advanced skills.
+
+<List-item> • But it should focus on learning outcomes, not on digital inputs. In Peru, when over 1 million laptops were distributed without being incorporated into pedagogy, learning did not improve. In the United States, analysis of over 2 million students found that learning gaps widened when instruction was exclusively remote.
+
+<List-item> • And it need not be advanced to be effective. In China, high-quality lesson recordings delivered to 100 million rural students improved student outcomes by 32% and reduced urban-rural earning gaps by 38%.
+
+<List-item> • Finally, it can have detrimental impact if inappropriate or excessive. Large-scale international assessment data, such as that provided by the Programme for International Student Assessment (PISA), suggest a negative link between excessive ICT use and student performance. Mere proximity to a mobile device was found to distract students and to have a negative impact on learning in 14 countries, yet less than one in four have banned smartphone use in schools.
+
+<Page-footer> 2023 * GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 1
+
+<Text> The fast pace of change in technology is putting strain on education systems to adapt.
+
+<List-item> • Countries are starting to define the digital skills they want to prioritize in curricula and assessment standards. Globally, 54% of countries have digital skill standards but often these have been defined by non-state, mostly commercial, actors.
+
+<List-item> • Many students do not have much chance to practise with digital technology in schools. Even in the world’s richest countries, only about 10% of 15-year-old students used digital devices for more than an hour per week in mathematics and science.
+
+<List-item> • Teachers often feel unprepared and lack confidence teaching with technology. Only half of countries have standards for developing teacher ICT skills. While 5% of ransomware attacks target education, few teacher training programmes cover cybersecurity.
+
+<List-item> • Various issues impede the potential of digital data in education management. Many countries lack capacity: Just over half of countries use student identification numbers. Countries that do invest in data struggle: A recent survey among UK universities found that 43% had trouble linking data systems.
+
+<Section-header> Online content has grown without enough regulation of quality control or diversity.
+
+<List-item> • Online content is produced by dominant groups, affecting access to it. Nearly 90% of content in higher education repositories with open education resource collections was created in Europe and Northern America; 92% of content in the OER Commons global library is in English. Massive open online courses (MOOCs) mainly benefit educated learners and those from richer countries.
+
+<List-item> • Higher education is adopting digital technology the fastest and being transformed by it the most. There were over 220 million students attending MOOCs in 2021. But digital platforms challenge universities’ role and pose regulatory and ethical challenges, for instance related to exclusive subscription deals and to student and personnel data.
+
+<Section-header> Technology is often bought to plug a gap, with no view to the long-term costs...
+
+<List-item> • ...for national budgets. The cost of moving to basic digital learning in low-income countries and connecting all schools to the internet in lower-middle-income countries would add 50% to their current financing gap for achieving national SDG 4 targets. Money is not always well spent: Around two-thirds of education software licences were unused in the United States.
+
+<List-item> • ...for children’s well-being. Children’s data are being exposed, yet only 16% of countries explicitly guarantee data privacy in education by law. One analysis found that 89% of 163 education technology products recommended during the pandemic could survey children. Further, 39 of 42 governments providing online education during the pandemic fostered uses that risked or infringed on children’s rights.
+
+<List-item> • ...for the planet. One estimate of the CO2 emissions that could be saved by extending the lifespan of all laptops in the European Union by a year found it would be equivalent to taking almost 1 million cars off the road.
+
+<Page-footer> 2
+
+<Page-footer> SUMMARY
+
+<Text> Major advances in technology, especially digital technology, are rapidly transforming the world. Information and communication technology (ICT) has been applied for 100 years in education, ever since the popularization of radio in the 1920s. But it is the use of digital technology over the past 40 years that has the most significant potential to transform education. An education technology industry has emerged and focused, in turn, on the development and distribution of education content, learning management systems, language applications, augmented and virtual reality, personalized tutoring, and testing. Most recently, breakthroughs in artificial intelligence (Al), methods have increased the power of education technology tools, leading to speculation that technology could even supplant human interaction in education.
+
+<Text> In the past 20 years, learners, educators and institutions have widely adopted digital technology tools. The number of students in MOOCs increased from 0 in 2012 to at least 220 million in 2021. The language learning application Duolingo had 20 million daily active users in 2023, and Wikipedia had 244 million page views per day in 2021. The 2018 PISA found that 65% of 15-year-old students in OECD countries were in schools whose principals agreed that teachers had the technical and pedagogical skills to integrate digital devices in instruction and 54% in schools where an effective online learning support platform was available; these shares are believed to have increased during the COVID-19 pandemic. Globally, the percentage of internet users rose from 16% in 2005 to 66% in 2022. About 50% of the world’s lower secondary schools were connected to the internet for pedagogical purposes in 2022.
+
+<Text> The adoption of digital technology has resulted in many changes in education and learning. The set of basic skills that young people are expected to learn in school, at least in richer countries, has expanded to include a broad range of new ones to navigate the digital world. In many classrooms, paper has been replaced by screens and pens by keyboards. COVID-19 can be seenasa natural experiment where learning switched online for entire education systems virtually overnight. Higher education is the subsector with the highest rate of digital technology adoption, with online management platforms replacing campuses. The use of data analytics has grown in education management. Technology has made a wide range of informal learning opportunities accessible.
+
+<Text> Yet the extent to which technology has transformed education needs to be debated. Change resulting from the use of digital technology is incremental, uneven and bigger in some contexts than others. The application of digital technology varies by community and socioeconomic level, by teacher willingness and preparedness, by education level, and by country income. Except in the most technologically advanced countries, computers and devices are not used in classrooms ona large scale. Technology use is not universal and will not become so any time soon. Moreover, evidence is mixed on its impact: Some types of technology seem to be effective in improving some kinds of learning. The short- and long-term costs of using digital technology appear to be significantly underestimated. The most disadvantaged are typically denied the opportunity to benefit from this technology.
+
+<Text> Too much attention on technology in education usually comes at a high cost. Resources spent on technology, rather than on classrooms, teachers and textbooks for all children in low- and lower-middle-income countries lacking access to these resources are likely to lead to the world being further away from achieving the global education goal, SDG 4. Some of the world’s richest countries ensured universal secondary schooling and minimum learning competencies before the advent of digital technology. Children can learn without it.
+
+<Text> However, their education is unlikely to be as relevant without digital technology. The Universal Declaration of Human Rights defines the purpose of education as promoting the ‘full development of the human personality’, strengthening ‘respect for ... fundamental freedoms’ and promoting ‘understanding, tolerance and friendship’. This notion needs to move with the times. An expanded definition of the right to education could include effective support by technology for all learners to fulfil their potential, regardless of context or circumstance.
+
+<Text> Clear objectives and principles are needed to ensure that technology use is of benefit and avoids harm. The negative and harmful aspects in the use of digital technology in education and society include risk of distraction and lack of human contact. Unregulated technology even poses threats to democracy and human rights, for instance through invasion of privacy and stoking of hatred. Education systems need to be better prepared to teach about and through digital technology, a tool that must serve the best interests of all learners, teachers and administrators. Impartial evidence showing that technology is being used in some places to improve education, and good examples of such use, need to be shared more widely so that the optimal mode of delivery can be assured for each context.
+
+<Page-footer> 2023 * GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 3
+
+<Section-header> CAN TECHNOLOGY HELP SOLVE THE MOST IMPORTANT CHALLENGES IN EDUCATION?
+
+<Text> Discussions about education technology are focused on Dees technology rather than education. The first question should be: What are the most important challenges in education? As a basis for discussion, consider the following three challenges:
+
+<List-item> • Equity and inclusion: Is fulfilment of the right to choose the education one wants and to realize one’s full potential through education compatible with the goal of equality? If not, how can education become the great equalizer?
+
+<List-item> • Quality: Do education's content and delivery support societies in achieving sustainable development objectives? If not, how can education help learners to not only acquire knowledge but also be agents of change?
+
+<List-item> • Efficiency: Does the current institutional arrangement of teaching learners in classrooms support the achievement of equity and quality? If not, how can education balance individualized instruction and socialization needs?
+
+<Text> How best can digital technology be included in a strategy to tackle these challenges, and under what conditions? Digital technology packages and transmits information on an unprecedented scale at high speed and low cost. Information storage has revolutionized the volume of accessible knowledge. Information processing enables learners to receive immediate feedback and, through interaction with machines, adapt their learning pace and trajectory: Learners can organize the sequence of what they learn to suit their background and characteristics. Information sharing lowers the cost of interaction and communication. But while such technology has tremendous potential, many tools have not been designed for application to education. Not enough attention has been given to how they are applied in education and even less to how they should be applied in different education contexts.
+
+<Text> On the question of equity and inclusion, ICT — and digital technology in particular — helps lower the education access cost for some disadvantaged groups: Those who live in remote areas are displaced, face learning difficulties, lack time or have missed out on past education opportunities. But while access to digital technology has expanded rapidly, there are deep divides in access. Disadvantaged
+
+<Section-header> FIGURE 1: Internet connectivity is highly unequal
+
+<Section-header> (Figure)
+
+<Section-header> GEM StatLink: https:/bit.ly/GEM2023_Summary_fig1 Source: UNICEF database.
+
+<Page-footer> 4
+
+<Page-footer> SUMMARY
+
+<Text> groups own fewer devices, are less connected to the internet (Figure 1) and have fewer resources at home. The cost of much technology is falling rapidly but is still too high for some. Households that are better off can buy technology earlier, giving them more advantages and compounding disparity. Inequality in access to technology exacerbates existing inequality in access to education, a weakness exposed during the COVID-19 school closures.
+
+<Text> Education quality is a multifaceted concept. It encompasses adequate inputs (e.g. availability of technology infrastructure), prepared teachers (e.g. teacher standards for technology use in classrooms), relevant content (e.g. integration of digital literacy in the curriculum) and individual learning outcomes (e.g. minimum levels of proficiency in reading and mathematics). But education quality should also encompass social outcomes. It is not enough for students to be vessels receiving knowledge; they need to be able to use it to help achieve sustainable development in social, economic and environmental terms.
+
+<Text> There are a variety of views on the extent to which digital technologies can enhance education quality. Some argue that, in principle, digital technology creates engaging learning environments, enlivens student experiences, simulates situations, facilitates collaboration and expands connections. But others say digital technology tends to support an individualized approach to education, reducing learners’ opportunities to socialize and learn by observing each other in real-life settings. Moreover, just as new technology overcomes some constraints, it brings its own problems. Increased screen time has been associated with adverse impact on physical and mental health. Insufficient regulation has led to unauthorized use of personal data for commercial purposes. Digital technology has also helped spread misinformation and hate speech, including through education.
+
+<Text> Improvements to efficiency may be the most promising way for digital technology to make a difference in education. Technology is touted as being able to reduce the time students and teachers spend on menial tasks, time that can be used in other, educationally more meaningful activities. However, there are conflicting views on what is meaningful. The way that education technology is used is more complex than just a substitution of resources. Technology may be one-to-many, one-to-one or peer-to-peer technology. It may require students to learn alone or with others, online or offline, independently or networked. It delivers content, creates learner communities and connects teachers with students. It provides access to information. It may be used for formal or informal learning and can assess what has been learned. It is used as a tool for productivity,
+
+<Text> creativity, communication, collaboration, design and data management. It may be professionally produced or have user-generated content. It may be specific to schools and place-based or transcend time and place. As in any complex system, each technology tool involves distinct infrastructure, design, content and pedagogy, and each may promote different types of learning.
+
+<Text> Technology is evolving too fast to permit evaluation that could inform decisions on legislation, policy and regulation. Research on technology in education is as complex as technology itself. Studies evaluate experiences of learners of various ages using various methodologies applied in contexts as different as self-study, classrooms and schools of diverse sizes and features, non-school settings, and at system level. Findings that apply in some contexts are not always replicable elsewhere. Some conclusions can be drawn from long-term studies as technologies mature but there is an endless stream of new products. Meanwhile, not all impact can be easily measured, given technology's ubiquity, complexity, utility and heterogeneity. In brief, while there is much general research on education technology, the amount of research for specific applications and contexts is insufficient, making it difficult to prove that a particular technology enhances a particular kind of learning.
+
+<Text> Why is there often the perception nevertheless that technology can address major education challenges? To understand the discourse around education technology, it is necessary to look behind the language being used to promote it, and the interests it serves. Who frames the problems technology should address? What are the consequences of such framing for education? Who promotes education technology as a precondition for education transformation? How credible are such claims? What criteria and standards need to be set to evaluate digital technology's current and potential future contribution to education so as to separate hype from substance? Can evaluation go beyond short-term assessments of impact on learning and capture potential far-reaching consequences of the generalized use of digital technology in education?
+
+<Page-footer> 2023 * GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 5
+
+<Text> Exaggerated claims about technology go hand in hand with exaggerated estimates of its global market size. In 2022, business intelligence providers’ estimates ranged from USD 123 billion to USD 300 billion. These accounts are almost always projected forward, predicting optimistic expansion, yet they fail to give historic trends and verify whether past projections proved true. Such reporting routinely characterizes education technology as essential and technology companies as enablers and disruptors. If optimistic projections are not fulfilled, responsibility is implicitly placed on governments as a way of maintaining indirect pressure on them to increase procurement. Education is criticized as being slow to change, stuck in the past and a laggard when it comes to innovation. Such coverage plays on users’ fascination with novelty but also their fear of being left behind.
+
+<Text> The sections below further explore the three challenges this report addresses: equity and inclusion (in terms of access to education for disadvantaged groups and access to content), quality (in terms of teaching through and about digital technology) and efficiency (in terms of education management). After identifying technology's potential to tackle these challenges, it discusses three conditions that need to be met for that potential to be fulfilled: equitable access, appropriate governance and regulation, and sufficient teacher capacity.
+
+<Section-header> EQUITY AND INCLUSION: ACCESS FOR DISADVANTAGED GROUPS
+
+<Text> A wide range of technology brings education to hard-to-reach learners. Technology has historically opened up education to learners facing significant obstacles in access to schools or well-trained teachers. Interactive radio instruction is used in nearly 40 countries. In Nigeria, radio instruction combined with print and audiovisual materials has been used since the 1990s, reaching nearly 80% of nomads and increasing their literacy, numeracy and life skills. Television has helped educate marginalized groups, notably in Latin America and the Caribbean. The Telesecundaria programme in Mexico, combining televised lessons with in-class support and extensive teacher training, increased secondary school enrolment by 21%. Mobile learning devices, often the only type of device accessible to disadvantaged learners, have been used in hard-to-reach areas and emergencies to share educational materials; complement in-person or remote channels; and foster interactions between students, teachers and parents, notably during COVID-19. Adults have been the main target of online distance learning, with open universities having increased participation for both working and disadvantaged adults.
+
+<Text> Inclusive technology supports accessibility and personalization for learners with disabilities. Assistive technology removes learning and communication barriers, with numerous studies reporting a significant positive impact on academic engagement, social participation and the well-being of learners with disabilities. However, such devices remain inaccessible and unaffordable in many countries, and teachers often lack specialized training to use them effectively in learning environments. While people with disabilities used to rely exclusively on specialized devices to gain access to education, technology platforms and devices are increasingly incorporating accessibility features, which support inclusive, personalized learning for all students.
+
+<Text> Technology supports learning continuity in emergencies. Mapping of 101 distance education projects in crisis contexts in 2020 showed that 70% used radio, television and basic mobile phones. During the Boko Haram crisis in Nigeria, the Technology Enhanced Learning for All programme used mobile phones and radios to support the learning continuity of 22,000 disadvantaged children, with recorded improvement in literacy and numeracy skills. However, there are significant gaps in terms of rigorous evaluation of education technology in emergencies, despite some limited recorded impact. Meanwhile, most projects are led by non-state actors as short-term crisis responses, raising sustainability concerns; education ministries implemented only 12% of the 101 projects.
+
+<Text> Technology supported learning during COVID-19, but millions were left out. During school closures, 95% of education ministries carried out some form of distance learning, potentially reaching over 1 billion students globally. Many of the resources used during the pandemic were first developed in response to previous emergencies or rural education, with some countries building on decades of experience with remote learning. Sierra Leone revived the Radio Teaching Programme, developed during the Ebola crisis, one week after schools closed. Mexico expanded content from its Telesecundaria programme to all levels of education. However, at least half a billion, or 31% of students worldwide — mostly the poorest (72%) and those in rural areas (70%) — could not be reached by remote learning. Although 91% of countries used online learning platforms to deliver distance learning during school closures, the platforms only reached a quarter of students globally. For the rest, low-tech interventions such as radio and television were largely used, in combination with paper-based materials and mobile phones for increased interactivity.
+
+<Page-footer> 6
+
+<Page-footer> SUMMARY
+
+<Section-header> BOX1:
+
+<Section-header> Generative artificial intelligence is the latest technology touted as having the potential to transform education
+
+<Text> Artificial intelligence has been applied in education for at least 40 years. Multiple examples are mentioned throughout this report, of which three stand out. First, intelligent tutoring systems track student progress, difficulties and errors, going through structured subject content to provide feedback and adjust the level of difficulty to create an optimal learning path. Second, artificial intelligence (Al) can support writing assignments and, conversely, can be used to automatically assess writing assignments, including identifying plagiarism and other forms of cheating. Third, Al has been applied to immersive learning experiences and games. Its creators expect that generative Al will increase all these tools’ effectiveness to such an extent that their use could become widespread, further personalizing learning and reducing the time teachers spend on tasks such as marking and lesson preparation.
+
+<Text> The potential implications for education are numerous. If repetitive tasks are increasingly being automated and more jobs require higher-order thinking skills, the pressure on education institutions to develop such skills will increase. If written assignments no longer indicate a mastery of certain skills, assessment methods will need to develop. If intelligent tutoring replaces at least some teaching tasks, teacher preparation and practices will need to shift accordingly. While many technologies previously promoted as transformative did not live up to expectations, the sheer growth in computing power behind generative Al raises the question whether this technology could be the turning point.
+
+<Text> Generative artificial intelligence may not bring the kind of change in education often discussed. If and how Al should be designed and used in education remains an active question. The appeal of learning alone with chatbots may wear off quickly. Even if perfected, such tools may be cumbersome and fail to produce improvement. Personalization in education should vary learner paths not to reach the same learning levels but different ones that fulfil individual potential. More evidence is needed to understand whether Al tools can change how students learn, beyond the superficial level of correcting mistakes. By simplifying the process of obtaining answers, such tools could have a negative impact on student motivation to perform independent research and derive solutions. Their spread could magnify versions of risks mentioned throughout this report. For instance, different learning speeds between students may be mismanaged, widening achievement gaps.
+
+<Text> There is a need to reflect on what it means to be well-educated in a world shaped by Al. Faced with new technology tools, the ideal response is unlikely to be further specialization in technology-related domains; rather, it is a balanced curriculum that maintains, if not strengthens, and improves the delivery of arts and humanities to reinforce learners’ responsibility, empathy, moral compass, creativity and collaboration. The implication of intelligent tutoring systems cannot be that Al replaces teachers altogether, but that teachers are entrusted with more responsibility than ever to help societies navigate this critical moment. A consensus is forming about the need to enjoy Al's benefits while eliminating risks from its unchecked use, through regulation relating to ethics, responsibility and safety.
+
+<Text> Some countries are expanding existing platforms to reach marginalized groups. Less than half of all countries developed long-term strategies for increasing their resilience and the sustainability of interventions as part of their COVID-19 response plans. Many have abandoned distance learning platforms developed during COVID-19, while others are repurposing them to reach marginalized learners. The digital platform set up in Ukraine during the pandemic was expanded once the war broke out in 2022, allowing 85% of schools to complete the academic year.
+
+<Section-header> EQUITY AND INCLUSION: ACCESS TO CONTENT
+
+<Text> Technology facilitates content creation and adaptation. Open educational resources (OERs) encourage the reuse and repurposing of materials to cut development
+
+<Text> time, avoid duplication of work and make materials more context-specific or relevant to learners. They also significantly reduce the cost of access to content. In the US state of North Dakota, an initial investment of USD 110,000 to shift to OERs led to savings of over USD 1 million in student costs. Social media increases access to user-generated content. YouTube, a major player in both formal and informal learning, is used by about 80% of the world’s top 113 universities. Moreover, collaborative digital tools can improve the diversity and quality of content creation. In South Africa, the Siyavule initiative supported tutor collaboration on the creation of primary and secondary education textbooks.
+
+<Page-footer> 2023 * GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 7
+
+<Text> Digitization of educational content simplifies access and distribution. Many countries, including Bhutan and Rwanda, have created static digital versions of traditional textbooks to increase availability. Others, including India and Sweden, have produced digital textbooks that encourage interactivity and multimodal learning. Digital libraries and educational content repositories such as the National Academic Digital Library of Ethiopia, National Digital Library of India and Teachers Portal in Bangladesh help teachers and learners find relevant materials. Learning management platforms, which have become a key part of the contemporary learning environment, help organize content by integrating digital resources into course structures.
+
+<Text> Open access resources help overcome barriers. Open universities and MOOCs can eliminate time, location and cost barriers to access. In Indonesia, where low participation in tertiary education is largely attributed to geographical challenges, MOOCs play an important role in expanding access to post-secondary learning. During COVID-19, MOOC enrolment surged, with the top three providers adding as many users in April 2020 as in all of 2019. Technology can also remove language barriers. Translation tools help connect teachers and learners from various countries and increase the accessibility of courses by non-native students.
+
+<Text> Ensuring and assessing the quality of digital content is difficult. The sheer quantity of content and its decentralized production pose logistical challenges for evaluation. Several strategies have been implemented to address this. China established specific quality criteria for MOOCs to be nationally recognized. The European Union developed its OpenupED quality label. India strengthened the link between non-formal and formal education. Micro-credentials are increasingly used to ensure that institution and learner both meet minimum standards. Some platforms aim to improve quality by recentralizing content production. YouTube, for example, has been funnelling financing and resources to a few trusted providers and partnering with well-established education institutions.
+
+<Text> Technology may reinforce existing inequality in both access to and production of content. Privileged groups still produce most content. A study of higher-education repositories with OER collections found that nearly 90% were created in Europe or North America; 92% of the material in the OER Commons global library is in English. This influences who has access to digital content. MOOCs, for example, mainly benefit educated learners — studies have shown around 80% of participants on major platforms already have a tertiary degree — and those from richer
+
+<Text> countries. The disparity is due to divides in digital skills, internet access, language and course design. Regional MOOCs cater to local needs and languages but can also worsen inequality.
+
+<Section-header> TEACHING AND LEARNING
+
+<Text> Technology has been used to support teaching and learning in multiple ways. Digital technology offers two broad types of opportunities. First, it can improve instruction by addressing quality gaps, increasing opportunities to practise, increasing available time and personalizing instruction. Second, it can engage learners by varying how content is represented, stimulating interaction and prompting collaboration. Systematic reviews over the past two decades on technology's impact on learning find small to medium-sized positive effects compared to traditional instruction. However, evaluations do not always isolate technology's impact in an intervention, making it difficult to attribute positive effects to technology alone rather than to other factors, such as added instruction time, resources or teacher support. Technology companies can have disproportionate influence on evidence production. For example, Pearson funded studies contesting independent analysis that showed its products had no impact.
+
+<Text> The prevalence of ICT use in classrooms is not high, even in the world’s richest countries. The 2018 PISA found that only about 10% of 15-year-old students in over 50 participating education systems used digital devices for more than an hour a week in mathematics and science lessons, on average (Figure 2). The 2018 International Computer and Information Literacy Study (ICILS) showed that in the 12 participating education systems, simulation and modelling software in classrooms was available to just over one third of students, with country levels ranging from 8% in Italy to 91% in Finland.
+
+<Text> Recorded lessons can address teacher quality gaps and improve teacher time allocation. In China, lesson recordings from high-quality urban teachers were delivered to 100 million rural students. An impact evaluation showed improvements in Chinese skills by 32% and a 38% long-term reduction in the rural-urban earning gap. However, just delivering materials without contextualizing and providing support is insufficient. In Peru, the One Laptop Per Child programme distributed over 1 million laptops loaded with content, but no positive impact on learning resulted, partly due to the focus on provision of devices instead of the quality of pedagogical integration.
+
+<Page-footer> 8
+
+<Page-footer> SUMMARY
+
+<Text> Enhancing technology-aided instruction with personalization can improve some types of learning. Personalized adaptive software generates analytics that can help teachers track student progress, identify error patterns, provide differentiated feedback and reduce workload on routine tasks. Evaluations of the use of a personalized adaptive software in India documented learning gains in after-school settings and for low-performing students. However, not all widely used software interventions have strong evidence of positive effects compared to teacher-led instruction. A meta-analysis of studies on an Al learning and assessment system that has been used by over 25 million students in the United States found it was no better than traditional classroom teaching in improving outcomes.
+
+<Section-header> FIGURE 2:
+
+<Section-header> Even in upper-middle- and high-income countries, technology use in mathematics and science classrooms is limited
+
+<Section-header> (Figure)
+
+<Section-header> GEM StatLink: https:/bit.ly/GEM2023_Summary _fig2 Source: 2018 PISA database.
+
+<Text> Varied interaction and visual representation can enhance student engagement. A meta-analysis of 43 studies published from 2008 to 2019 found that digital games improved cognitive and behavioural outcomes in mathematics. Interactive whiteboards can support teaching and learning if well integrated in pedagogy; but in the United Kingdom, despite large-scale adoption, they were mostly used to replace blackboards. Augmented, mixed or virtual reality used as an experiential learning tool for repeated practice in life-like conditions in technical, vocational and scientific subjects is not always as effective as real-life training but may be superior to other digital methods, such as video demonstrations.
+
+<Text> Technology offers teachers low-cost and convenient ways to communicate with parents. The Colombian Institute of Family Welfare’s distance education initiative, which targeted 1.7 million disadvantaged children, relied on social media platforms to relay guidance to caregivers on pedagogical activities at home. However, uptake and effectiveness of behavioural interventions targeting caregivers are limited by parental education levels, as well as lack of time and material resources.
+
+<Text> Student use of technology in classrooms and at home can be distracting, disrupting learning. A meta-analysis of research on student mobile phone use and its impact on education outcomes, covering students from pre-primary to higher education in 14 countries, found a small negative effect, and a larger one at the university level. Studies using PISA data indicate a negative association between ICT use and student performance beyond a threshold of moderate use. Teachers perceive tablet and phone use as hampering classroom management. More than one in three teachers in seven countries participating in the 2018 ICILS agreed that ICT use in classrooms distracted students. Online learning relies on student ability to self-regulate and may put low-performing and younger learners at increased risk of disengagement.
+
+<Section-header> DIGITAL SKILLS
+
+<Text> The definition of digital skills has been evolving along with digital technology. An analysis for this report shows that 54% of countries have identified digital skills standards for learners. The Digital Competence Framework for Citizens (DigComp), developed on behalf of the European Commission, has five competence areas: information and data literacy, communication and collaboration, digital content creation, safety, and problem-solving. Some countries have adopted digital skills frameworks developed by non-state, mostly commercial, actors. The International Computer Driving Licence (ICDL) has been promoted as a ‘digital skills standard’ but is associated mainly with
+
+<Page-footer> 2023 * GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 9
+
+<Text> Microsoft applications. Kenya and Thailand have endorsed the ICDL as the digital literacy standard for use in schools.
+
+<Text> Digital skills are unequally distributed. In the 27 European Union (EU) countries, 54% of adults had at least basic digital skills in 2021. In Brazil, 31% of adults had at least basic skills, but the level was twice as high in urban as inrural areas, three times as high among those in the labour force as among those outside it, and nine times as high in the top socioeconomic group as in the two bottom groups. The overall gender gap in digital skills is small, but wider in specific skills. In 50 countries, 6.5% of males and 3.2% of females could write a computer program. In Belgium, Hungary and Switzerland, no more than 2 women for every 10 men could program; in Albania, Malaysia and Palestine, 9 women for every 10 men could do so. According to the 2018 PISA, 5% of 15-year-olds with the strongest reading skills but 24% of those with the weakest ones were at risk of being misled by a typical phishing email.
+
+<Text> Formal skills training may not be the main way of acquiring digital skills. About one quarter of adults in EU countries, ranging from 16% in Italy to 40% in Sweden, had acquired skills through a ‘formalised educational institution’. Informal learning, such as self-study and informal assistance from colleagues, relatives and friends, was used by twice as many. Still, formal education is important: In 2018, those with tertiary education in Europe were twice as likely (18%) as those with upper secondary education (9%) to engage in free online training or self-study to improve their computer, software or application use. Solid mastery of literacy and numeracy skills is positively associated with mastery of at least some digital skills.
+
+<Text> A curriculum content mapping of 16 education systems showed that Greece and Portugal dedicated less than 10% of the curriculum to data and media literacy while Estonia and the Republic of Korea embedded both in half their curricula. In some countries, media literacy in curricula is explicitly connected to critical thinking in subject disciplines, as under Georgia's New School Model. Asia is characterized by a protectionist approach to media literacy that prioritizes information control over education. But in the Philippines, the Association for Media and Information Literacy successfully advocated for incorporation of media and information literacy in the curriculum, and it is nowa core subject in grades 11 and 12.
+
+<Text> Digital skills in communication and collaboration matter in hybrid learning arrangements. Argentina promoted teamwork skills as part of a platform for programming and robotics competitions in primary and secondary education.
+
+<Text> Mexico offers teachers and students digital education resources and tools for remote collaboration, peer learning and knowledge sharing. Ethical digital behaviour includes rules, conventions and standards to be learned, understood and practised by digital users when using digital spaces. Digital communication’s anonymity, invisibility, asynchronicity and minimization of authority can make it difficult for individuals to understand its complexities.
+
+<Text> Competences in digital content creation include selecting appropriate delivery formats and creating copy, audio, video and visual assets; integrating digital content; and respecting copyright and licences. The ubiquitous use of social media has turned content creation into a skill with direct application in electronic commerce. In Indonesia, the Siberkreasi platform counts collaborative engagement among its core activities. The Kenya Copyright Board collaborates closely with universities to provide copyright education and conducts frequent training sessions for students in the visual arts and ICT.
+
+<Text> Education systems need to strengthen preventive measures and respond to many safety challenges, from passwords to permissions, helping learners understand the implications of their online presence and digital footprint. In Brazil, 29% of schools have conducted debates or lectures on privacy and data protection. In New Zealand, the Te Mana Tuhono (Power of Connectivity) programme delivers digital protection and security services to almost 2,500 state and state-integrated schools. A systematic review of interventions in Australia, Italy, Spain and the United States estimated that the average programme had a 76% chance of reducing cyberbullying perpetration. In Wales, United Kingdom, the government has advised schools how to prepare for and respond to harmful viral online content and hoaxes.
+
+<Text> The definition of problem-solving skills varies widely among education systems. Many countries perceive them in terms of coding and programming and as part of a computer science curriculum that includes computational thinking, algorithm use and automation. A global review estimated that 43% of students in high-income countries, 62% in upper-middle-income, 5% in lower-middle-income but no students in low-income countries take computer science as compulsory in primary and/or secondary education. Only 20% of education systems require schools to offer computer science as an elective or core course. Non-state actors often support coding and programming skills. In Chile, Code.org has partnered with the government to provide educational resources in computer science.
+
+<Page-footer> 10
+
+<Page-footer> SUMMARY
+
+<<<CHUNK>>>
+
+<Section-header> Non-state actors In education
+
+<Section-header> KEY MESSAGES
+
+<Section-header> There is no part of education in which non-state actors are not involved.
+
+<Text> Put simply, without non-state actors, the education of 350 million more children would fall to the responsibility of the state. But non-state engagement also affects the textbooks they use, the food in their canteens, the additional support they get, the skills they learn and much more.
+
+<Section-header> Most people support public education.
+
+<Text> Three in four people in 34 middle- and high-income countries would prefer more public spending on education, with support increasing the more unequal the country. Almost 9 in 10 think education should primarily be public.
+
+<Section-header> But such support has gradually eroded in several low- and middle-income countries.
+
+<Text> Where public schools had been in short supply and their quality had deteriorated, many families voted with their feet. The share of private institutions worldwide increased by seven percentage points in about 10 years: to 17% by 2013 in primary and to 26% by 2014 in secondary education. It has remained roughly constant since. In Central and Southern Asia the share of private enrolment is 36% in primary and 48% in secondary education.
+
+<Section-header> Public education is not free.
+
+<Text> Households account for 30% of total education spending globally and 39% in low- and lower-middle-income countries. Part is due to wealthier families trying to give their children a competitive advantage. But a large part is spent on pre-primary, primary and secondary education that governments committed to provide free of charge. About 8% of families borrow to pay for education, rising to 12% in low-income countries and 30% or more in Haiti, Kenya, the Philippines and Uganda.
+
+<Section-header> Public education is often not inclusive.
+
+<Text> Many public education systems fail to prevent stratification and segregation. An index of social diversity in schools, based on Programme for International Student Assessment data, found that Argentina, Brazil, Chile and Mexico had similar high levels of stratification in 2018, although only Chile tends to be criticized for the high share of private institutions in its system.
+
+<Section-header> No one type of provider delivers education of better quality than any other.
+
+<Text> Data from 30 low- and middle-income countries show that, once household characteristics are accounted for, the apparent premium from attending private school drops by half to two-thirds. In a sample of 49 countries, the richest are almost 10 times likelier than the poor to go to private school. And parents who can choose schools do so because of religious beliefs, convenience and student demographic characteristics rather than quality, about which they rarely have sufficient information.
+
+<Page-footer> 2021/2 - GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 1
+
+<Section-header> Regulatory, monitoring and enforcement capacity tends to be low where the need is high.
+
+<Text> Analysis of 211 education systems for the PEER website shows that regulations tend to focus on registration, approval or licensing (98%), teacher certification (93%), infrastructure (80%) and pupil/teacher ratios (74%). Regulations are least likely to focus on quality or equity: 67% regulate fee setting, 55% prevent selective student admission procedures in non-state schools, 27% ban profit making and only 7% have quotas supporting access of disadvantaged groups. Private tutoring is unregulated in 48% of countries and regulated only in commercial legislation in 11% of countries.
+
+<Section-header> Non-state actors are even more present in early childhood, technical, tertiary and adult education.
+
+<Text> This is sometimes at the expense of equity and quality. The generally higher cost of non-state early childhood and tertiary education means urban elites are over-represented in these institutions. In the United States, profit-maximizing universities have been linked with a deterioration of student outcomes. Institutions providing private training through market competition or skills development systems, such as Australia’s TVET FEE-HELP loan programme and India’s National Skill Development Corporation, were forced to rethink accountability and monitoring processes to increase the quality of private provision and improve employability outcomes.
+
+<Section-header> Governments need to see all education institutions, students and teachers as part of a single system.
+
+<Text> Standards, information, incentives and accountability should help governments protect, respect and fulfil the right to education of all and should prevent them from turning their eyes away from pockets of privilege or exploitation. Publicly funded education does not have to be publicly provided, but disparity in education processes, student outcomes and teacher working conditions should be addressed head-on. Efficiency and innovation should not bea commercial secret; rather, they should be diffused and practised by all. To achieve that, transparency and integrity in the public education policy process need to be maintained.
+
+<Page-footer> 2
+
+<Page-footer> SUMMARY
+
+<Text> Governments have not always led education. Historically, education was organized spontaneously and informally by religion, family and guild. From the late 18th century, states saw the opportunity to develop their economies through an educated workforce and to develop and strengthen a sense of national identity through public schools. Governments were prepared to take on the high cost of delivering this public good because of the wider benefits to societies and economies. For newly independent countries in the 20th century, building a public education system was the hallmark of emancipation from colonialism. Public education invariably aimed to promote noble ideals or ruling ideologies. The new structures superseded and absorbed traditional education structures.
+
+<Text> Yet education is also a private good. Consuming more education improves individual opportunities and may exclude others from such opportunities. Those who manage to climb the education ladder are better placed to achieve a higher standard of living and higher returns. As education systems cannot accommodate everybody on the higher rungs, families do everything they can to ensure that their offspring are the ones who make it to the top. Such competition generates demand, which in turn leads to the supply of education goods and services. Depending on national context and disposition, markets may emerge in direct provision of education services that confer advantage.
+
+<Section-header> SUPPORT FOR PUBLIC EDUCATION IS STRONG
+
+<Text> Education choices determine children’s lives. Parents must not only make simple calculations of financial costs and benefits but also consider multiple interrelated factors. Choices regarding what is taught, how, by whom and where reflect the competing world views and aspirations of parents and of other education stakeholders. They concern two main dimensions: control and distribution of resources, and values and beliefs for changing society. Education choices are highly political and are reflected explicitly or implicitly in political agendas. In addition to individual ideological and circumstantial factors, understandings of social challenges and how government, people and institutions should relate to one another vary among countries. These understandings influence attitudes on what policies government should pursue and who should benefit from them.
+
+<Text> Research on support for public education is overwhelmingly from high-income countries. A recent survey of attitudes in Denmark, France, Germany, Ireland, Italy, Spain, Sweden and the United Kingdom showed that when respondents were asked to prioritize one of eight potential areas for additional spending, education was the top option for 28%, with health care second at 22%. While 77% of respondents supported school choice, over 60% opposed a significant role for private schools in the national education system.
+
+<Text> Analysis of the 2016 International Social Survey Programme (ISSP) special module data on the role of government, commissioned for this report, addressed public education support using a sample of 35 countries, including 10 middle-income countries. Overall, 89% of adult respondents said the primary responsibility for providing school education rested with governments, while 6% said families and 5% other institutions (private companies and for-profit organizations; non-profit organizations, charities and cooperatives; and religious organizations). But, reflecting strong exposure to non-state provision, respondents in India (46%),' the Philippines (63%) and Chile (76%) expressed the lowest support for public provision (Figure 1).
+
+<Section-header> DIVERSE ARGUMENTS DRIVE DEBATE FOR OR AGAINST NON-STATE PROVISION
+
+<Text> Proponents and opponents of non-state actors in education argue their cases in relation to the capacity and legitimacy of state and non-state actors to promote efficiency, equity and inclusion, and innovation in education. These issues are seen through the lens of whether people believe education is a good or service to be procured through the market and whether people should be able to choose education.
+
+<Text> Are non-state actors more cost-efficient in education? Proponents of non-state activity in education argue that it is inevitable since the state cannot cater for the full range of demands for education. Regardless of whether non-state actors are motivated by charity, beliefs and ideas, or profit, if the supply of education goods and services is responsive to demand, then a market is possible - if not a conventional market, then at least a planned one. Through the market, cost-efficiency objectives can be pursued.
+
+<Footnote> 1 The regional edition of this report on non-state actors in education will be devoted to South Asia
+
+<Page-footer> 2021/2 - GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 3
+
+<Section-header> FIGURE 1:
+
+<Section-header> In most countries studied, over 80% support public provision of education
+
+<Section-header> (Figure)
+
+<Section-header> GEM StatLink: https://bit.ly/GEM2021_Summary_fig1] Source: Edlund and Lindh (2021) based on the 2016 ISSP.
+
+<Text> Opponents of non-state activity in education argue that, if cost-efficient practices exist, they should be diffused throughout the education system and practised by all schools, state and non-state alike. If a case could be made that teachers in a country were paid too much, then this should be a matter for public policy to resolve, not a reason to change the model of provision. Non-state actors may increase cost-efficiency by hiring young or unqualified teachers, which is not a sustainable solution. Making reliable cost comparisons between state and
+
+<Text> non-state schools is challenging. Public schools tend to serve more disadvantaged populations, which are costlier to educate.
+
+<Text> Do non-state actors deliver equity and inclusion in education? Proponents of non-state provision argue that non-state providers help fulfil the right to education. In many contexts, non-state actors have filled genuine gaps in education provision, often for disadvantaged groups neglected by public systems.
+
+<Page-footer> 4
+
+<Page-footer> SUMMARY
+
+<Text> Governments are often reluctant to set up schools in informal settlements, as in Pakistan. Non-state actors also make valuable contributions in crisis and emergency contexts, such as the aftermath of Nepal’s catastrophic 2015 earthquake. In El Salvador, in urban areas afflicted by violence and gangs, the share of enrolment in non-state schools is double the national average.
+
+<Text> Those who oppose non-state schools point to problems caused by school choice. If parents can choose the school they want, without guiding regulations, then the richest are most likely to be able to afford the best, often non-state schools, exacerbating inequality, stratification and segregation. Parental decision making requires good information, but information on school characteristics is lacking or, if it exists, unequally provided, with more disadvantaged populations having less access to it. Moreover, there are several hard-to-reach populations to whom providers may be reluctant to provide services.
+
+<Text> Some of those who think government should not have a primary role in education provision challenge its authority to decide on education content or its ability to deliver education of a desired standard. Parents may make a case for separate and non-state provision due to concern that the local public school threatens the values of the cultural, ethnic, linguistic or religious community in which they want to raise their child. But governments may argue that this conflicts with their commitment to ensure equitable and inclusive education and interferes with their ability to apply uniform standards in an effort to provide the same quality of education to all children, without exception.
+
+<Text> Do non-state actors bring more innovation to education? Proponents of non-state involvement in education assert that it helps increase innovation. Many ideas that have transformed understandings of pedagogy emerged at the margins of public education systems or even outside them. Public education systems have grown into large, centralized bureaucracies that can lose sight of the populations they are to serve. A common criticism is that they blunt initiative, force standardization and demotivate students and teachers.
+
+<Text> Delivering innovation is a complex task for public education systems. Changes need to be piloted and tested for scalability. Challenges can include bureaucratic obstacles, organizational capacity gaps, lack of teacher and parental motivation, limited financial means and political meddling and opposition. However, public education systems are not negatively predisposed to innovation by design. And some non-state actors are testing whether certain innovations work in public education.
+
+<Text> Debate on innovation is often obscured by key concepts being referred to in contradictory ways. Standardization is maligned by those opposing what they see as public education systems’ rigidity, conformity and lack of differentiation, but defended by those who champion common core curricula to ensure standards are met in all schools and who suggest that it is competitive pressure, often influenced by private providers, that accelerates a tendency to conform. Ultimately, whether standardization discourages innovation depends on what standards are defined. Terms such as ‘accountability’, ‘autonomy’ and ‘choice’ have been both hailed and demonized as organizational principles of education. While any of these ideas can be examined on their merits, they do not necessarily justify a bigger role for non-state, and particularly private, education provision.
+
+<Section-header> MYTHS ABOUT STATE AND NON-STATE ACTORS IN EDUCATION PREVAIL
+
+<Text> Ten recurring myths about state and non-state actors in education are questioned throughout this report.
+
+<Section-header> MYTH 1.
+
+<Text> State and non-state actors can be clearly distinguished.
+
+<Text> (Illustration)
+
+<Text> Discussion of non-state actors in education typically involves a binary classification: public and private schools. In practice, the landscape is more complex and distinctions are far less clearcut. Non-state actors are highly heterogeneous. They enter the education sector for diverse reasons related to ideas, values, beliefs and interests. Many enter into formal or informal organizational arrangements with government, including contracting and public-private partnerships, which blur distinguishing lines.
+
+<Page-footer> 2021/2 - GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 5
+
+<Section-header> MYTH 2.
+
+<Text> The extent of privatization is known.
+
+<Text> (Illustration)
+
+<Text> Descriptions of trends in the role of non-state actors often rely on the share of private institutions in total enrolment. How do countries account for public school teachers who supplement their income by teaching students after hours? How public is an education system that outsources textbooks, assessment or data management, or even catering and transport? Is a government policy written by a lobbuist still considered public?
+
+<Section-header> MYTH 3.
+
+<Text> The private sector is to blame for privatization in education.
+
+<Text> (Illustration)
+
+<Text> The vast majority of private providers are single proprietor schools. They emerged in response to genuine parental concerns about public school quality lowered by neglect. When the decline in quality became clear, rich and, to a lesser extent, also poorer households left the public system, which undermined its support and left it underfunded. Elitism among political leaders increased their tolerance for inequality and reduced their commitment to protect public education and the disadvantaged populations that benefited from it.
+
+<Section-header> MYTH 4.
+
+<Text> Public education is equitable.
+
+<Text> (Illustration)
+
+<Text> Households often incur high education costs through hidden fees, avoidable out-of-pocket payments and additional expenditure to compensate for what public schools do not offer. While it is common to criticize education systems that have opened the doors to non-state providers, which exacerbate inequality, many public education systems fail to prevent stratification and segregation.
+
+<Page-footer> 6
+
+<Page-footer> SUMMARY
+
+<Section-header> MYTH 5.
+
+<Text> Parents base school choice on robust information about quality.
+
+<Text> (Illustration)
+
+<Text> A foundational assumption among supporters of non-state schools and school choice is that parents, as consumers, have access to information about the best schools and use it efficiently. In practice, data on schools’ impact are too complex for most countries to manage and communicate. And parents often ignore such information, choosing schools that appeal to them for other reasons: religious beliefs, convenience and students’ demographic characteristics.
+
+<Section-header> MYTH 6.
+
+<Text> Competition leads to school improvement.
+
+<Text> (Illustration)
+
+<Text> Accountability and healthy competition motivate some people to improve. In the economic sphere, firms compete to survive, as profit making is why they exist. But it is not clear how such dynamics play out in education. Studies that demonstrate system-wide effects of competition are rare, due to the complexity of the subject matter, and findings have been inconclusive. Worse, competition can lead non-state schools to pander to parents’ aspirations, against good pedagogical practice.
+
+<Section-header> MYTH 7.
+
+<Text> Private schools and universities are better.
+
+<Text> (Illustration)
+
+<Text> Comparison of public and private school examination pass rates is the usual evidence relied upon for school league tables as reported by the media and read by parents. In practice, student intake varies, with better-off, well-educated and highly aspirational parents far more likely to choose a private school. Private schools, in turn, may be able to screen students to maximize the possibility of top results. When such factors are controlled for, the gap between public and private schools is usually slashed or eliminated.
+
+<Page-footer> 2021/2 - GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 7
+
+<Section-header> MYTH 8.
+
+<Text> The private sector is a solution to the out-of-school challenge.
+
+<Text> (Illustration)
+
+<Text> With more than 350 million primary and secondary school students enrolled in private institutions, a crisis would be inevitable if these students switched over to the public education system. However, private schools are booming in urban areas, where enrolment levels are already close to universal. They are largely absent in rural areas. And in low- and middle-income countries, children from the richest 20% of households are 10 times more likely to attend a private school than their peers from the poorest 20%.
+
+<Section-header> MYTH 9.
+
+<Text> The private sector is a solution to education financing gaps.
+
+<Text> (Illustration)
+
+<Text> High hopes are often expressed that the private sector can play an important role in financing education to help achieve SDG 4. There is no evidence so far that it is willing or able to do so. But it could make other contributions, for instance through tax, especially in low- and lower-middle-income countries where domestic revenue mobilization rates are low and opportunities for tax evasion and avoidance are rife. The private sector could take a stronger lead in skills development and childcare services in line with national regulations.
+
+<Section-header> MYTH 10.
+
+<Text> Regulations can address all concerns about non-state provision.
+
+<Text> (Illustration)
+
+<Text> There is consensus that non-state activity in education should be regulated. But regulations do not meaningfully address how to promote equity and quality system-wide. Few governments monitor whether the flight of wealthier households to private schools segregates the education system or how household education spending increases inequality. Many governments allow selective school admissions. Few regulate private supplementary tuition or lobbying, which remains largely undefined under the guise of partnerships. Even fewer have the resources to implement and enforce regulations effectively.
+
+<Page-footer> 8
+
+<Page-footer> SUMMARY
+
+<Text> About 25 years ago in the United States, when evidence started emerging about the unequal effects of new organizational forms of public education based on school choice, the authors of an early study aptly summarized the findings with two questions: Who chooses? Who loses? (Fuller and Elmore, 1996). As more evidence accumulates on the mechanics, effectiveness and consequences of school choice around the world, the Global Education Monitoring Report takes these questions to a global audience. Four key aspects of non-state activity - provision, regulation, financing and influence - are addressed in primary and secondary education, followed by a more in-depth look at these aspects at other education levels, which tend to receive less attention: early childhood education, tertiary education and technical, vocational and adult education.
+
+<Section-header> PROVISION
+
+<Text> Enrolment in non-state schools has been growing. The share of private institutions worldwide increased by 7 percentage points in about 10 years, from 10% in 2002 to 17% in 2013 in primary education and from 19% in 2004 to 26% in 2014 in secondary education, but has since remained roughly constant (Figure 2).
+
+<Text> Ownership, management and financing are the usual criteria for defining the non-state sector. Providers’ relationship with the state, their motivations and their price can be used to group them. Analysis from this report found that faith-based schools can be found in 124 of 196 countries. Non-governmental organization (NGO) and community schools can be found in 74 of 196 countries, often in emergency contexts. For-profit schools are a minority, except in a few contexts, such as the United Arab Emirates. A broad range of modestly priced, mostly single-proprietor schools in low- and middle-income countries in sub-Saharan Africa and Asia are known as low-fee private schools.
+
+<Text> State and non-state schools differ in student intake and resources. Few poor children have the choice to attend private schools. To evaluate the quality of education experience, parents refer to class size, teacher quality and effort, school responsiveness, discipline and safety, language of instruction, religion, ethnicity and culture. In the United Kingdom, analysis of 18,000 English schools comparing public schools with privately managed public schools found a greater percentage of unqualified teachers in the latter.
+
+<Section-header> FIGURE 2:
+
+<Text> Private enrolment shares are highest in Southern Asia
+
+<Text> (Figure)
+
+<Text> GEM StatLink: https://bit.ly/GEM2021_Summarvy_fig2 Source: UIS database.
+
+<Page-footer> 2021/2 - GLOBAL EDUCATION MONITORING REPORT
+
+<Page-footer> 9
+
+<Text> Public and private schools may differ in other resources. In Latin America, the average number of computers per student in private schools is double that in public schools.
+
+<Text> Most evidence shows that the learning advantage of attending private schooling is limited. Data for 31 low- and middle-income countries showed that the estimated premium from attending private school dropped by one half to two thirds after adjusting for household wealth. Moreover, while non-state provision of core education can fill gaps in the short or medium term, it can lead to segregation and inequality. In Sweden, 29 of 30 municipalities contained strongly segregated lower secondary schools; in 16, segregation appeared to have been largely driven by school choice. While competition with non-state schools is expected to prompt public schools to improve, the mere presence of private or other schools in near proximity may not be sufficient incentive for public school authorities to act if they do not have the financial resources or autonomy to respond.
+
+<Text> Private supplementary tuition is nearly universal. This phenomenon, which has been prevalent in several countries in East Asia and the Arab States, is also spreading in regions where it was uncommon, such as sub-Saharan Africa and northern Europe. Demand for supplementary tuition is most associated with students’ need to prepare for high-stakes examinations to gain a competitive advantage. But the impact of tutoring on individual student performance is mixed: Some studies have detected positive effects for those furthest behind, while other studies indicate that tutoring has no systematic positive effect on student performance. Moreover, tutoring can undermine education system performance by negatively affecting student and teacher behaviour.
+
+<Text> Textbook policy, procurement and distribution vary in terms of state involvement. In some countries, publishing is primarily by state-owned and -controlled enterprises; in others, there is a mixed system of public and private publishing. Several high-income countries, including Spain, mainly leave textbook production to commercial providers, with government involved in providing guidelines and approving proposals. The interplay among international publishers, donors and local interests often complicates the transition to local publishing in poorer countries. For example, Gabon’s textbook industry is dominated by Edicef, a textbook publishing arm of French-owned Hachette Livre, one of the world’s largest publishers.
+
+<Text> The push for content digitization is led by large publishing and technology companies. Pearson, the global market leader in education publishing, changed its slogan from ‘world’s largest publisher of textbooks and online teaching materials’ to ‘world’s digital learning company’, with a stronger focus on online schooling and assessment. Beyond global and regional textbook publishers, technology giants have entered the online education sector, a trend strengthened during the COVID-19 pandemic. Analysis of education technology procurement process experiences in the United States found that school districts and schools were typically overwhelmed by thousands of education technology vendors marketing a wide array of products.
+
+<Text> Governments are outsourcing more support services in education. Critics of outsourcing fear that privatization could undermine public services and professionalism. An Australian analysis found that increased contracting of cleaning staff led to contractor proliferation, increased incidence of underpayment, reduced cleaning hours and lower occupational health and safety standards.
+
+<Section-header> GOVERNANCE AND REGULATION
+
+<Text> Governance of non-state education providers is often fragmented. Good governance and effective regulations are key determinants of governments’ ability to deliver equitable education of good quality. In 94 countries, sector plans or strategies envisage intervention by non-state actors in provision or other service delivery. Ministries or departments share responsibilities in some countries. Fragmentation, lack of coordination and overlapping or unclear articulation of responsibilities can negatively influence equity and quality. Just 39% of countries have a private education department, division or agency at the national level under the education in charge of primary and secondary education. Education ministries are exclusively responsible for quality assuring non-state actors in 83% of countries, while in 13% multiple authorities do that. Religious affairs, rather than education ministries, are responsible for faith-based schools in 22% of countries - and 70% in Northern Africa and Western Asia.
+
+<Text> Funding mechanisms have an impact on governance. Non-state actors obtain direct or indirect government financial support in various forms: per-student subsidies (in 79% of countries), subsidies to parents (23%), support to teacher salaries or other operating experiences (about 70%) and loans or gifts (27%).
+
+<Page-footer> 10
+
+<Page-footer> SUMMARY
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2020
+
+<Page-header> SUMMARY
+
+<<<CHUNK>>>
+
+<Section-header> Laws and policies
+
+<Text> Binding legal instruments and non-binding declarations express international aspirations for inclusion. The 1960 UNESCO Convention against Discrimination in Education and the 1990 World Declaration on Education for All, adopted in Jomtien, Thailand, called on countries to take measures to ensure ‘equality of treatment in education’ and no ‘discrimination in access to learning opportunities’ for ‘underserved groups’. The 1994 Statement and Framework for Action adopted in Salamanca, Spain, put forward the principle that all children should be at ‘the school that would be attended if the child did not have a disability’, which was endorsed as a right in 2006. These texts have influenced the national laws and policies on which progress towards inclusion hinges.
+
+<Text> National definitions of inclusive education tend to embrace a broader scope. Analysis for this Report shows that 68% of countries define inclusive education in laws, policies, plans or strategies. Definitions that cover all marginalized groups are found in 57% of countries. In 17% of countries, the definition of inclusive education covers exclusively people with disabilities or special needs.
+
+<Text> Laws tend to target specific groups at risk of exclusion in education. The broad vision of including all learners in education is largely absent from national laws. Only 10% of countries reflected comprehensive provisions for all learners in their general or inclusive education laws. More commonly, legislation originating in education ministries concerns specific groups. Of all countries, 79% had laws referring to education for people with disabilities, 60% for linguistic minorities, 50% for gender equality and 49% for ethnic and indigenous groups.
+
+<Text> Policies tend to have a broader vision of inclusion in education. About 17% of countries have policies containing comprehensive provisions for all learners. The tendency is much stronger in less binding texts, with 75% of national education plans and strategies declaring an intention to include all disadvantaged groups. Some 67% of countries have policies on inclusion of learners with disabilities, with responsibility for these policies almost equally split between education ministries and other ministries.
+
+<Text> Laws and policies differ on whether students with disabilities should be in mainstream schools. Laws in 25% of countries provide for education in separate settings, with shares exceeding 40% in Asia and in Latin America and the Caribbean. About 10% of countries mandate integration and 17% inclusion, the remainder opting for combinations of segregation and mainstreaming. Policies have shifted closer to inclusion: 5% of countries have policy provisions for education in separate settings, while 12% opt for integration and 38% for inclusion. Despite the good intentions enshrined in laws and policies, governments often do not ensure implementation.
+
+<Text> Policies need to be consistent and coherent across ages and education levels. Access to early childhood care and education is highly inequitable, conditioned by location and socio-economic status. Quality, especially interactions, integration, and child-centredness based on play, also determines inclusion. Early identification of children’s needs is crucial to designing the right responses, but labels of difference in the name of inclusion can misfire. Disproportionately assigning some marginalized groups to special needs categories can indicate discriminatory procedures, as successful legal challenges over Roma students’ right to education demonstrate.
+
+<Text> Preventing early school leaving requires policies on multiple fronts. Education systems face a dilemma. Grade retention appears to increase dropout, but automatic promotion requires systematic approaches to remedial support, which many countries proclaim but fail to implement. Laws and policies may not be consistent with inclusion, e.g. in countries with low child labour or marriage age thresholds. Bangladesh is among the few countries to invest extensively in second-chance programmes, which are indispensable for achieving SDG 4.
+
+<Text> Governments are striving to make post-compulsory and adult education policies more inclusive. Technical and vocational education can facilitate labour market inclusion of vulnerable groups, notably young women
+
+<Page-footer> 15
+
+<Page-header> SUMMARY
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2020
+
+<Text> and people with disabilities. Unlocking its potential requires making learning environments safer and accessible, as in Malawi. Inclusion-oriented tertiary education interventions tend to focus on encouraging access for disadvantaged groups through quotas or affordability measures. Yet only 11% of 71 countries had comprehensive equity strategies; another 11% elaborated approaches only for particular groups. Digital inclusion, especially of the elderly, is a major challenge for countries increasingly dependent on information and communication technology (ICT).
+
+<Text> Responses to the Covid-19 crisis, which affected 1.6 billion learners, have not paid sufficient attention to including all learners. While 55% of low-income countries opted for online distance learning in primary and secondary education, only 12% of households in least developed countries have internet access at home. Even low-technology approaches cannot ensure learning continuity. Among the poorest 20% of households, just 7% owned a radio in Ethiopia and none owned a television. Overall, about 40% of low- and lower-middle-income countries have not supported learners at risk of exclusion. In France, up to 8% of students had lost contact with teachers after three weeks of lockdown.
+
+<<<CHUNK>>>
+
+<Section-header> Data
+
+<Text> Data on and for inclusion in education are essential. Data on inclusion can highlight gaps in education opportunities and outcomes among learner groups, identifying those at risk of being left behind and the severity of the barriers they face. Using such information, governments can develop policies for inclusion and collect further data on implementation and on less easily observed qualitative outcomes.
+
+<Text> Formulating appropriate questions on characteristics associated with vulnerability can be sensitive. Data on education disparity at the population level, collected through censuses and surveys, raise education ministries’ awareness of disparity. However, depending on their formulation, questions on characteristics such as nationality, ethnicity, religion, sexual orientation and gender identity expression can touch on sensitive personal identities, be intrusive and trigger persecution fears.
+
+<Text> The formulation of questions on disability has improved. Agreeing to a valid measure of disability has been a long process. The UN Statistical Commission's Washington Group on Disability Statistics proposed a short set of questions for censuses or surveys in 2006, covering critical functional domains and activities for adults. A child-specific module was then developed with UNICEF. The questions bring disability statistics in line with the social model of disability and resolve serious comparability issues. Their rate of adoption is only slowly picking up.
+
+<Text> The evidence that emerges on disability is of higher quality but still patchy. Analysis of 14 countries taking part in the Multiple Indicator Cluster Surveys (MICS) in 2017-19 and using the wider child-specific module showed a disability prevalence of 12%, ranging from 6% to 24%, as a result of high anxiety and depression rates. Across these countries, children, adolescents and youth with disabilities accounted for 15% of the out-of-school population. Relative to their peers of primary, lower secondary and upper secondary school age, those with a disability were more likely to be out of school by 1, 4 and 6 percentage points, respectively, and those with a sensory, physical or intellectual disability by 4, 7 and 11 percentage points.
+
+<Text> Some school surveys provide deeper insights into inclusion. In the 2018 Programme for International Student Assessment (PISA), one in five 15-year-old students reported feeling like an outsider at school, but the share exceeded 30% in Brunei Darussalam, the Dominican Republic and the United States. In all participating education systems, students of lower socio-economic status were less likely to feel a sense of belonging. Administrative data can be leveraged to collect qualitative evidence on inclusion. New Zealand systematically monitors soft indicators at the national level, including on whether students feel cared for, safe and secure,
+
+<Page-footer> 16
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2020
+
+<Page-header> SUMMARY
+
+<Text> and on their ability to establish and maintain positive relationships, respect others’ needs and show empathy. Almost half of low- and middle-income countries collect no administrative data on students with disabilities.
+
+<Text> Data show where segregation is still taking place. In Brazil, a policy change increased the share of students with disabilities in mainstream schools from 23% in 2003 to 81% in 2015. In Asia and the Pacific, almost 80% of children with disabilities attended mainstream schools, from 3% in Kyrgyzstan to 100% in Timor-Leste and Thailand. Scattered data record schools catering to specific groups, such as girls, linguistic minorities and religious communities. Their contribution to inclusion is ambiguous: Indigenous schools, for instance, can provide an environment where traditions, cultures and experiences are respected, but they can also perpetuate marginality. School surveys such as PISA show high levels of socio-economic segregation in countries including Chile and Mexico, where half of all students would require school reassignment to achieve a uniform socio-economic mix. This type of school segregation barely changed over 2000-15.
+
+<Text> Identification of special education needs can be contentious. Identification can inform teachers about student needs so they can target support and accommodation. Yet children could be reduced to labels by peers, teachers and administrators, which can prompt stereotyped behaviours towards labelled students and encourage a medical approach. Portugal recently legislated a non-categorical approach to determining special needs. Low expectations triggered by a label, such as having learning difficulties, can become self-fulfilling. In Europe, the share of students identified with special education needs ranged from 1% in Sweden to 20% in Scotland. Learning disability was the largest category of special needs in the United States but was unknown in Japan. Such variation is mainly explained by differences in how countries construct this category of education: Institution, funding and training requirements vary, as do policy implications.
+
+<<<CHUNK>>>
+
+<Section-header> Governance and finance
+
+<Text> Ensuring inclusive education is not the sole responsibility of education policy actors. Integrating services can improve the way children’s needs are considered, as well as services’ quality and cost-effectiveness. Integration can be achieved when one service provider acts as a referral point for access to another. A mapping of inclusive education provision in 18 European countries, mostly with reference to students with disabilities, showed education ministries responsible for teachers, school administration and learning materials; health ministries for screening, assessment and rehabilitation services; and social protection ministries for financial aid.
+
+<Text> Sharing responsibility does not guarantee horizontal collaboration, cooperation and coordination. Deep-rooted norms, traditions and bureaucratic working cultures hinder smooth transition away from siloed forms of service delivery. Insufficient resources may also be a factor: In Kenya, one-third of county-level Educational Assessment Resource Centres, set up to expand access to education for children with disabilities, had one officer instead of the multidisciplinary teams envisaged. Clearly defined, measurable standards outlining responsibilities are needed. Rwanda developed standards enabling inspectors to assess classroom inclusivity. In Jordan, various actors used separate standards for licensing and accrediting special education centres; the new 10-year strategy will address this issue.
+
+<Section-header> Vertical integration among government tiers and support to local government are needed.
+
+<Text> Central governments must fund commitments to local governments fully and develop their capacity. A Republic of Moldova reform to move children out of mostly state boarding schools stumbled because savings were not transferred to the local government institutions and schools absorbing the children. In Nepal, a midterm evaluation of the school sector programme and the first inclusive education workshop showed that, while some central government posts were shifted as part of decentralization, local government capacity to support education service delivery was weak.
+
+<Page-footer> 17
+
+<Page-header> SUMMARY
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT
+
+<Text> Three funding levers are important for equity and inclusion in education. First, governments may or may not compensate for relative disadvantage in allocating resources to local authorities or schools through capitation grants. Argentina's federal government allocates block grants to provincial governments, taking rural and out-of-school populations into account. Provinces co-finance education from their revenue, whose levels vary greatly, contributing to inequality. Second, education financing policies and programmes may target students and their families in the form of cash (e.g. scholarships) and exemptions from payment (e.g. fees). About one in four countries have affirmative action programmes for access to tertiary education. Third, non-education-specific financing policies and programmes can have a large impact on education. Over the long term, conditional cash transfers in Latin America increased education attainment by between 0.5 and 1.5 years.
+
+<Text> Financing disability-inclusive education requires additional focus. A twin-track approach to financing is recommended, complementing general mechanisms with targeted programmes. Policymakers need to define standards for services to be delivered and the costs they will cover. They need to address the challenge of expanding costs as special needs identification rates increase, and design ways to prioritize, finance and deliver targeted services for a wide range of needs. They also need to define results in a way that maintains pressure on local authorities and schools to avoid further earmarking services for children with diagnosed special needs and further segregating settings at the expense of other groups or general financing needs. Finland has been moving in this direction.
+
+<Text> Even richer countries lack information on financing education for students with disabilities. A project mapping European countries’ financing of inclusive education found that only 5 in 18 had relevant information. There is no ideal funding mechanism, since countries vary in history, understanding of inclusive education and levels of decentralization. A few countries are moving away from multiple weights (e.g. by type of impairment), which may inflate the number of students identified with special needs, to a simple funding formula for mainstream schools. Many promote networks to share resources, facilities and capacity development opportunities.
+
+<Text> Poorer countries often struggle to finance the shift from special to inclusive education. Some countries have increased their budgets to improve inclusion of students with disabilities. The 2018/19 Mauritius budget quadrupled the annual per capita grant for teaching aids, utilities, furniture and equipment for students with special needs.
+
+<<<CHUNK>>>
+
+<Section-header> Curricula, textbooks and assessments
+
+<Text> Curriculum choices can promote or obstruct an inclusive and democratic society. Curricula need to reassure all groups at risk of exclusion that they are fundamental to the education project, whether in terms of content or implementation. Using different curricula of differing standards for some groups hinders inclusion and creates stigma. Yet many countries still teach students with disabilities a special curriculum, offer refugees only the curriculum of their home country to encourage repatriation, and tend to push lower achievers onto slower education tracks. Challenges arise in several contexts: internally displaced populations in Bosnia and Herzegovina; gender issues in Peru; linguistic minorities in Thailand; Burundian and Congolese refugees in the United Republic of Tanzania; indigenous peoples in Canada. In Europe, 23 in 49 countries did not address sexual orientation and gender identity expression explicitly.
+
+<Text> Inclusive curricula need to be relevant, flexible and responsive to needs. Evidence from citizen-led assessments in Southern Asia and sub-Saharan Africa highlighted large gaps between curriculum objectives and learning outcomes. When curricula cater to more privileged students and certain types of knowledge, implementation inequality between rural and urban areas arises, as a curriculum study of primary mathematics in Uganda showed. Learning in the mother tongue is vital, especially in primary school, to avoid knowledge gaps and increase the speed of learning and comprehension. In India’s Odisha state, multilingual education covered about 1,500 primary schools and 21 tribal languages of instruction. Just 41 countries worldwide recognize sign
+
+<Page-footer> 18
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2020
+
+<Page-header> SUMMARY
+
+<Text> language as an official language, of which 21 are in the European Union. In Australia, 19% of students receive adjustments to the curriculum. Curricula should not lead to dead ends in education but offer pathways for continuous education opportunities.
+
+<Text> Textbooks can perpetuate stereotypes. Representation of ethnic, linguistic, religious and indigenous minorities in textbooks depends largely on historical and national context. Factors influencing countries’ treatment of minorities include the presence of indigenous populations; the demographic, political or economic dominance of one or more ethnic groups; the history of segregation or conflict; the conceptualization of nationhood; and the role of immigration. Textbooks may acknowledge minority groups in ways that mitigate or exacerbate the degree to which they are perceived, or perceive themselves, as ‘other’. Inappropriate images and descriptions that associate certain characteristics with particular population groups can make students with non-dominant backgrounds feel misrepresented, misunderstood, frustrated and alienated. In many countries, females are often under-represented and stereotyped. The share of females in secondary school English language textbook text and images was 44% in Indonesia, 37% in Bangladesh and 24% in Punjab province, Pakistan. Women were represented in less prestigious occupations and as introverted.
+
+<Text> Good-quality assessments are a fundamental part of an inclusive education system. Assessments are often organized unduly narrowly, determining admission to certain schools or placement in separate school tracks, and sending conflicting signals about government commitment to inclusion. Large-scale, cross-national summative assessments, for instance, tend to exclude students with disabilities or learning difficulties. Assessment should focus on students’ tasks: how they tackle them, which ones prove difficult and how some aspects can be adapted to enable success. A shift in emphasis from high-stake summative assessments at the end of the education cycle to low-stake formative assessments over the education trajectory underpins efforts to make assessment fit for the purpose of inclusive education. Test accommodations are essential, but their validity has been questioned in that they appear to fit students to a model. The emphasis should instead be on how the assessment can support students with impairments in demonstration of their learning. In seven sub-Saharan African countries, no teacher had minimum knowledge in student assessment.
+
+<Text> Various factors need to be aligned for inclusive curricular, textbook and assessment reforms. Capacity needs to be developed so stakeholders can work collaboratively and think strategically. Partnerships need to be in place to enable all parties to own the process and work towards the same goals. Successful attempts to make curricula, textbooks and assessments inclusive entail participatory processes during design, development and implementation.
+
+<<<CHUNK>>>
+
+<Section-header> Teachers and education support personnel
+
+<Text> In inclusive education, all teachers should be prepared to teach all students. Inclusion cannot be realized unless teachers are agents of change, with values, knowledge and attitudes that permit every student to succeed. Teachers’ attitudes often mix commitment to the principle of inclusion with doubts about their preparedness and how ready the education system is to support them. Teachers may not be immune to social biases and stereotypes. Inclusive teaching requires teachers to be open to diversity and aware that all students learn by connecting classroom with life experiences. While many teacher education and professional learning opportunities are designed accordingly, entrenched views of some students as deficient, unable to learn or incapable mean teachers may struggle to see that each student's learning capacity is open-ended.
+
+<Text> Lack of preparedness for inclusive teaching may result from gaps in pedagogical knowledge. Some 25% of teachers in the 2018 Teaching and Learning International Survey reported a high need for professional development in teaching students with special needs. Across 10 francophone sub-Saharan African countries, 8% of grade 2 and 6 teachers had received in-service training in inclusive education. Overcoming the legacy of preparing different types of teachers for different types of students in separate settings is important. To be of good quality, teacher education must cover multiple aspects of inclusive teaching for all learners, from
+
+<Page-footer> 19
+
+<Page-header> SUMMARY
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2020
+
+<Text> instructional techniques and classroom management to multi-professional teams and learning assessment methods, and should include follow-up support to help teachers integrate new skills into classroom practice. In Canada’s New Brunswick province, a comprehensive inclusive education policy introduced training opportunities for teachers to support students with autism spectrum disorders.
+
+<Text> Teachers need appropriate working conditions and support to adapt teaching to student needs. In Cambodia, teachers questioned the feasibility of applying child-centred pedagogy in a context of overcrowded classrooms, scarce teaching resources and overambitious curricula. Teaching to standardized content requirements of a learning assessment can make it more difficult for teachers to adapt their practice. Cooperation among teachers in different schools can support them in addressing the challenges of diversity, especially in systems transitioning from segregation to inclusion. Sometimes such collaboration is absent even among teachers at the same school. In Sri Lanka, few teachers in mainstream classes collaborated with peers in special needs units.
+
+<Text> Arise in support personnel accompanied the mainstreaming of students with special needs. Yet, globally, provision is lacking. Respondents to a survey of teacher unions reported that support personnel were largely absent or not available in at least 15% of countries. Classroom learning or teaching assistants can be particularly helpful. However, while their role is to supplement teachers’ work, they are often put in positions that demand much more. Increased professional expectations, accompanied by often low levels of professional development, can lead to lower-quality learning, interference with peer interaction, decreased access to competent instruction, and stigmatization. In Australia, access of students with disabilities to qualified teachers was partly impeded by the system's overdependence on unqualified support personnel.
+
+<Text> Teacher diversity often lags behind population diversity. This is sometimes the result of structural problems preventing members of marginalized groups from acquiring qualifications, teaching in schools once they are qualified and remaining in the profession. Systems should recognize that these teachers can bolster inclusion by offering unique insights and serving as role models to all students. In India, the share of teachers from scheduled castes, which constitute 16% of the country’s population, increased from 9% to 13% between 2005 and 2013.
+
+<<<CHUNK>>>
+
+<Section-header> Schools
+
+<Text> Inclusion in education requires inclusive schools. School ethos - the explicit and implicit values and beliefs, as well as the interpersonal relationships, that define a school’s atmosphere — has been linked to students’ social and emotional development and well-being. The share of students in Organisation for Economic Co-operation and Development (OECD) countries who felt they ‘belonged’ in school fell from 82% in 2003 to 73% in 2015 due to increasing shares of students with immigrant backgrounds and declining levels of a sense of belonging among natives.
+
+<Text> Head teachers can foster a shared vision of inclusion. They can guide inclusive pedagogy and plan professional development activities. A cross-country study of teachers of special needs students in mainstream schools found that those who received more instructional leadership reported lower professional development needs. While head teachers’ tasks are increasingly complex, nearly one-fifth (rising to half in Croatia) had no instructional leadership training. Across 47 education systems, 15% of head teachers (rising to more than 60% in Viet Nam) reported a high need for professional development in promoting equity and diversity.
+
+<Text> School bullying and violence cause exclusion. One-third of 11- to 15-year-olds have been bullied in school. Those perceived as differing from social norms or ideals are the most likely to be victimized, including sexual, ethnic and religious minorities, the poor and those with special needs. Lesbian, gay, bisexual, transgender and intersex students in New Zealand were three times as likely to be bullied. In Uganda, 84% of children with disabilities versus 53% of those without experienced violence by peers or staff. Classroom management practices, guidance
+
+<Page-footer> 20
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2020
+
+<Page-header> SUMMARY
+
+<Text> services and policies should identify staff responsibilities and actions to prevent and address bullying and violence. Punitive approaches should not displace student support and cultivation of a respectful atmosphere.
+
+<Text> Schools must be safe and accessible. Transit to school, building design and sanitation facilities often violate accessibility, acceptability and adaptability principles. More than one-quarter of girls in 11 African, Asian and Latin American countries reported never or seldom feeling safe on the way to or from school. No schools in Burundi, Niger and Samoa had ‘adapted infrastructure and materials for students with disabilities’. In Slovakia, 15% of primary and 21% of lower secondary schools met such standards. Reliable comparable evidence remains elusive because countries’ standards vary and schools do not meet all elements of a standard; in addition, monitoring capacity is weak and data are not independently verified.
+
+<Text> Accessible infrastructure often does not support all. The CRPD called for universal design to increase functionality and accommodate everyone's needs, regardless of age, size or ability. Incorporating full-access facilities from the outset increases cost by 1%, compared with 5% or more after completion. Aid programmes helped disseminate universal design principles. Indonesian schools built with Australian support included accessible toilets, handrails and ramps; the government adopted similar measures for all new schools.
+
+<Text> Assistive technology can determine participation or marginalization. Assistive devices refer to input technology (adapted keyboards and computer input controls, speech input, dictation software) and output technology (screen readers and magnifiers, three-dimensional printers, Braille note-takers). Alternative and augmentative communication systems replace speech. Assistive listening systems improve sound clarity and reduce background noise. Such technology improves graduation rates, self-esteem and optimism, but is often unavailable due to lack of resources or not used effectively due to lack of teacher education.
+
+<<<CHUNK>>>
+
+<Section-header> Students, parents and communities
+
+<Text> Take marginalized students’ experiences into account. Documenting disadvantaged students’ views without singling them out is difficult. Their inclusion preferences are shown to depend on their vulnerability, type of school attended, experience at a different type of school, and the level and discreetness of specialized support. Vulnerable students in mainstream schools may appreciate separate settings for the sake of increased attention or reduced noise. Pairing students with peers with disabilities can increase acceptance and empathy, although it does not guarantee inclusion outside school.
+
+<Text> Majority populations tend to stereotype minority and marginalized students. Negative attitudes lead to less acceptance, isolation and bullying. Syrian refugees in Turkey felt negative stereotypes led to depression, stigmatization and alienation from school. Stereotypes can lower students’ expectations and self-esteem. In Switzerland, girls internalized the view that they are less suited than boys for science, technology, engineering and mathematics, which discouraged them from pursuing degrees in these fields. Teachers can fight but also perpetuate discrimination in education. Mathematics teachers in Sao Paulo, Brazil, were more likely to pass white students than their equally proficient and well-behaved black classmates. Teachers in China had less favourable perceptions of rural migrant students than of their urban peers.
+
+<Text> Parents drive but also resist inclusive education. Parents may hold discriminatory beliefs about gender, disability, ethnicity, race or religion. Some 15% in Germany and 59% in Hong Kong, China, feared that children with disabilities disturbed others’ learning. Given choice, parents wish to send their vulnerable children to schools that ensure their well-being. They need to trust mainstream schools to respond to their needs. As school becomes more demanding with age, parents of children with autism spectrum disorders may have to look for schools that better meet their needs. In Australia’s Queensland state, 37% of students in special schools had moved from mainstream schools.
+
+<Page-footer> 21
+
+<Page-header> SUMMARY
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2020
+
+<Text> Parental school choice affects inclusion and segregation. Families with choice may avoid disadvantaged local schools. In Danish cities, a seven percentage point increase in the share of migrant students was associated with a one percentage point increase in the share of natives attending private school. In Lebanon, the majority of parents favoured private schools along sectarian lines. In Malaysia, private school streams organized by ethnicity and differentiated by quality contributed to stratification, despite government measures to desegregate schools. The potential of distance and online mainstream education for inclusion notwithstanding, parental preference for self-segregation through homeschooling tests the limits of inclusive education.
+
+<Text> Parents of children with disabilities often find themselves in a distressing situation. Parents need support in early identification and management of their children’s sleep, behaviour, nursing, comfort and care. Early intervention programmes can help them grow confident, use other support services and enrol children in mainstream schools. Mutual support programmes can provide solidarity, confidence and information. Parents with disabilities are more likely to be poor, less educated and face barriers coming to school or working with teachers. In Viet Nam, children of parents with disabilities had 16% lower attendance rates.
+
+<Text> Civil society has been advocate and watchdog for the right to inclusive education. Organizations for people with disabilities, disabled people's organizations, grassroots parental associations and international non-government organizations (NGOs) active in development and education monitor progress on government commitments, campaign for fulfilment of rights and defend against violations of the right to inclusive education. In Armenia, an NGO campaign resulted in a legal and budget framework for rolling out inclusive education nationally by 2025.
+
+<Text> Civil society groups provide education services on government contract or their own initiative. These services may support groups governments do not reach (e.g. street children) or be alternatives to government services. The Ghana Inclusive Education Policy calls on NGOs to mobilize resources, advocate for increased funding, contribute to infrastructure development and engage in monitoring and evaluation. The Afghanistan government supports community-based education, which relies on local people. Yet NGO schools set up for specific groups may promote segregation rather than inclusion in education. They should align with policy and not replicate services or compete for limited funds.
+
+<Text> (Illustration)
+
+<Page-footer> 22
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2020
+
+<<<CHUNK>>>
+
+<Section-header> Recommendations
+
+<Section-header> ALL MEANS ALL: LEARNER DIVERSITY IS A STRENGTH TO BE CELEBRATED
+
+<Text> The world has committed to inclusive education not by chance but because it is the foundation of an education system of good quality that enables every child, youth and adult to learn and fulfil their potential. Gender, age, location, poverty, disability, ethnicity, indigeneity, language, religion, migration or displacement status, sexual orientation or gender identity expression, incarceration, beliefs and attitudes should not be the basis for discrimination against anyone in education participation and experience. The prerequisite is to see learner diversity not as a problem but as an opportunity. Inclusion cannot be achieved if it is seen as an inconvenience or if people harbour the belief that learners’ levels of ability are fixed. Education systems need to be responsive to all learners’ needs.
+
+<Text> The following recommendations take into account the deep roots of barriers and the wide scope of issues related to inclusion, which threaten the world’s chance to achieve the 2030 targets.
+
+<List-item> 1 Widen the understanding of inclusive education: It should include all learners, regardless of identity, background or ability.
+
+<Text> Although the right to inclusive education encompasses all learners, many governments are yet to base their laws, policies and practices on this principle. Education systems, which celebrate diversity and believe every person adds value, has potential and should be treated with dignity, enable all to learn not only the basics but the broader range of skills the world needs to build sustainable societies. This is not about setting up an inclusive education department. Rather, it is about not discriminating against anyone, not rejecting anyone, making all reasonable accommodations to cater for diverse needs and working towards gender equality. Interventions should be coherent from early childhood to adulthood to facilitate lifelong learning, and thus an inclusive perspective should be adopted in education sector plan preparation.
+
+<List-item> 2 Target financing to those left behind: There is no inclusion while millions lack access to education.
+
+<Text> Once legal instruments are in place to address access barriers such as child labour, child marriage and teenage pregnancy, governments need a twin-track approach that allocates general funding to foster an inclusive learning environment for all learners, as well as targeted funding to follow the furthest behind as early as possible. Upon access to school, early interventions can considerably reduce the potential impact of disability on progression and learning.
+
+<List-item> 3 Share expertise and resources: This is the only way to sustain a transition to inclusion.
+
+<Text> In many ways, achieving inclusion is a management challenge. Human and material resources to address diversity are scarce. Historically they have been concentrated in a few places as a legacy of segregated provision and are unequally distributed. Mechanisms and incentives are needed to move them flexibly to ensure that specialist expertise supports mainstream schools and non-formal education settings.
+
+<List-item> 4 Engage in meaningful consultation with communities and parents: Inclusion cannot be enforced from above.
+
+<Text> Governments should open space for communities to voice their preferences as equals in the design of policies on inclusion in education. Schools should increase interaction within and outside of school walls on the design and implementation of school practices through parent associations or student pairing systems. Everybody's view should count.
+
+<Page-footer> 23
+
+<Page-header> SUMMARY
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2020
+
+<List-item> 5 Ensure cooperation across government departments, sectors and tiers: Inclusion in education is but a 5 subset of social inclusion.
+
+<Text> Ministries sharing administrative responsibility for inclusive education must collaborate in identifying needs, exchanging information and designing programmes. Central governments need to ensure human and financial support for local governments to carry out clearly defined inclusive education mandates.
+
+<List-item> 6 Make space for non-government actors to challenge and fill gaps: They must also make sure they work 6 towards the same inclusion goal.
+
+<Text> Government must provide leadership and maintain dialogue with NGOs to ensure that education service provision leads to inclusion, meets standards and is aligned with national policy. Government should also create conditions enabling NGOs to monitor fulfilment of government commitments and stand up for those excluded from education.
+
+<List-item> 7 Apply universal design: Ensure inclusive systems fulfil every learner's potential.
+
+<Text> All children should learn from the same flexible, relevant and accessible curriculum, one that recognizes diversity and responds to various learners’ needs. Spoken and signed languages and images in textbooks should make everyone visible while removing stereotypes. Assessment should be formative and allow students to demonstrate learning in a variety of ways. School infrastructure should not exclude anyone and the huge potential of technology should be exploited.
+
+<List-item> 8 Prepare, empower and motivate the education workforce: All teachers should be prepared to teach all students.
+
+<Text> Inclusive approaches should not be treated as a specialist topic but as a core element of teacher education, whether initial education or professional development. Such programmes need to focus on tackling entrenched views of some students as deficient and unable to learn. Head teachers should be prepared to implement and communicate an inclusive school ethos. A diverse education workforce also supports inclusion.
+
+<List-item> 9 Collect data on and for inclusion with attention and respect: Avoid labelling that stigmatises.
+
+<Text> Education ministries must collaborate with other ministries and statistical agencies to collect population-level data coherently so as to understand the scale of disadvantage for the marginalized. On disability, the use of the Washington Group Short Set of Questions and the Child Functioning Module should be prioritized. Administrative systems should aim to collect data for aid planning and budgeting in provision of inclusive education services, but also data on the experience of inclusion. However, the desire for detailed or robust data should not take priority over ensuring that no learner is harmed.
+
+<List-item> 10 Learn from peers: A shift to inclusion is not easy.
+
+<Text> Inclusion represents a move away from discrimination and prejudice, and towards a future that can be adapted to various contexts and realities. Neither the pace nor the specific direction of this transition can be dictated. But much can be learned from sharing experiences through teacher networks, national forums, and regional and global platforms.
+
+<Page-footer> 24
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2019
+
+<Page-header> SUMMARY
+
+<<<CHUNK>>>
+
+<Section-header> Migration, displacement and education
+
+<Text> Powerful, moving stories of migration and displacement occur around the world. These stories of ambition, hope, fear, anticipation, ingenuity, fulfilment, sacrifice, courage, perseverance and distress remind us that ‘migration is an expression of the human aspiration for dignity, safety and a better future. It is part of the social fabric, part of our very make-up as a human family’. Yet migration and displacement are ‘also a source of divisions within and between States and societies ... In recent years, large movements of desperate people, including both migrants and refugees, have cast a shadow over the broader benefits of migration’.
+
+<Text> While there is shared responsibility for the common destiny formally endorsed in the 2030 Agenda for Sustainable Development, migration and displacement continue to elicit some negative responses in modern societies. These are exploited by opportunists who see benefit in building walls, not bridges. It is here that education's role to ‘promote understanding, tolerance and friendship among all nations, racial or religious groups’, a key commitment in the Universal Declaration of Human Rights, takes centre stage.
+
+<Text> This report looks at migration and displacement through the eyes of teachers and education administrators faced with the reality of diverse classrooms, schoolyards, communities, labour markets and societies. Education systems around the world are united in the commitment to ‘ensure inclusive and equitable quality education and promote lifelong learning opportunities for all’ and to ‘leave no one behind’. For all students to fulfil their promise, systems need to adjust to their needs irrespective of their backgrounds. They also need to respond to societies’ need to be resilient and adapt to migration and displacement - a challenge affecting countries with large and small migrant and refugee populations alike.
+
+<Text> All types of population movement are covered. On average, one out of eight people is an internal migrant. This migration can have serious effects on the educational opportunities of those moving and those left behind, particularly in still rapidly urbanizing low and middle income countries. About 1 out of 30 people lives in a country other than the one where they were born. Almost two-thirds of international migrants are destined for high income countries. While most move to work, some also move for education. And international migration also affects the education of their descendants. Some 1 out of 80 people are displaced within or across borders by conflict or natural disasters. Nine out of ten of these live in low and middle income countries. Including them in national education systems is crucial but can be conditioned by the unique contexts of the displacement.
+
+<Text> Migration and displacement interact with education through intricate, two-way relationships that affect those who move, those who stay and those who do or may host migrants and refugees (Table 1). When in the life cycle people ponder or undertake migration is a key determinant of education investment, interruption,
+
+<Section-header> TABLE 1:
+
+<Section-header> Selected examples of the relationship between education and migration/displacement
+
+<Table> Effects of migration/displacement on education Effects of education on migration/displacement Origin Migrants + Migration leads to provision challenges in slums. + The more educated are more likely to migrate. Education systems need to adjust to the needs of populations moving in seasonal or circular patterns. Left behind Migration depopulates rural areas and challenges education provision. + Emigration of the educated has consequences for development of affected Remittances affect education in origin communities. areas, e.g. through brain drain. Parent absence affects children left behind. Emigration prospects disincentivize investment in education. New programmes prepare aspiring migrants. Destination — Immigrants « Educational attainment and achievement of immigrants and their children + Migrants tend to be overqualified, their skills not fully recognized or utilized, and refugees usually lag behind natives. and their livelihoods altered. « Refugees need to be included in national education systems. « Internationalization of tertiary education prompts student mobility. Refugees’ right to education needs to be ensured. Natives + Diversity in classrooms requires better prepared teachers, targeted + Formal and non-formal education can build resilient societies and reduce programmes to support new arrivals and prevent segregation, and prejudices and discrimination. disaggregated data.
+
+<Page-header> SUMMARY
+
+<Page-header> EDUCATION MONITORING REPORT 2019
+
+<Text> experience and outcome. Children migrating from areas with lower levels of education development may access opportunities otherwise unavailable. At the same time, migrant students’ attainment and achievement often lag behind those of their peers in destination communities.
+
+<Text> Migration and displacement require education systems to accommodate the needs of those who move and those left behind. Countries need to recognize migrants’ and refugees’ right to education in law and fulfil this right in practice. They need to tailor education for those cramming into slums, living nomadically or awaiting refugee status. Education systems need to be inclusive and fulfil the commitment to equity. Teachers need to be prepared to deal with diversity and the traumas associated with migration and, especially, displacement.
+
+<Section-header> Migration and displacement require education systems to accommodate the needs of those who move and those left behind
+
+<Text> Recognition of qualifications and prior learning needs to be modernized to make the most of migrants’ and refugees’ skills, which contribute greatly to long-term prosperity.
+
+<Text> Education also profoundly affects migration and displacement - both their volume and how they are perceived. Education is a major driver in the decision to migrate, fuelling the search for a better life. It affects migrants’ attitudes, aspirations and beliefs, and the extent to which they develop a sense of
+
+<Text> belonging in their destination. Increased diversity in classrooms has challenges, including for natives (especially the poor and marginalized), but it also offers opportunities to learn from other cultures and experiences. Curricula sensitive to addressing negative attitudes are needed more than ever.
+
+<Text> With migration and displacement becoming hot political topics, education is key to providing citizens with a critical understanding of the issues involved. It can support the processing of information and promote cohesive societies, especially important in a globalized world. Yet education should go well beyond tolerance, which can betray indifference; it is a critical tool in fighting prejudice, stereotypes and discrimination. If poorly designed, education systems can promulgate negative, partial, exclusive or dismissive portrayals of immigrants and refugees.
+
+<Text> The 2019 Global Education Monitoring Report reviews global evidence on migration, displacement and education and aims to answer the following questions:
+
+<List-item> • How do population movements affect access to and quality of education? What are the implications for individual migrants and refugees?
+
+<List-item> • How can education make a difference in the lives of people who move and in the communities receiving them?
+
+<Section-header> BOX 1:
+
+<Section-header> The world is moving to address the education and other needs of migrating, displaced and hosting populations
+
+<Text> Addressing the education and other needs of migrating, displaced and hosting populations at the local, national and international levels requires mobilizing resources and coordinating actions. The world is moving in that direction. In September 2016, 193 UN member states signed the New York Declaration for Refugees and Migrants to strengthen and refine responsibility- sharing mechanisms, setting in motion processes for two global compacts: one on migrants and the other on refugees.
+
+<Text> The draft Global Compact for Safe, Orderly and Regular Migration puts most issues addressed in this report on the agenda. It covers access to basic services, including education both in and beyond school. Although more emphasis is given to skills recognition, it conveys a generally positive message about education as an
+
+<Text> opportunity to make the most of migratory flows. However, the compact is non-binding and leaves open how countries meet commitments.
+
+<Text> Providing education to the displaced requires additional support to help people adjust to new environments and cope with protracted displacement. Although refugees’ right to education in host countries is guaranteed in the 1951 United Nations Convention Relating to the Status of Refugees, the Global Compact on Refugees aims to renew the commitment. The final draft dedicates two paragraphs to education, focusing on finance and its use to support specific policies. It makes clear the need for the development of national policies on inclusion.
+
+<Page-footer>12
+
+<Page-header> EDUCATION MONITORING REPORT 2019
+
+<Page-header> SUMMARY
+
+<<<CHUNK>>>
+
+<Section-header> Internal migration
+
+<Text> An estimated 763 million people live outside the region where they were born. Among a variety of possible movements, permanent or temporary, between or within urban and rural areas, it is rural to urban flows and seasonal or circular flows that tend to pose the biggest challenges for education systems.
+
+<Section-header> An estimated 763 million people live outside the region where they were born
+
+<Text> While major rural to urban migration accompanied the economic growth of the 19 to mid-20* century in high income countries, the largest internal population movements today occur in middle income countries, particularly China and India. In sub-Saharan Africa, rural to urban migration has also made urban development planning challenging.
+
+<Text> Migration rates vary by age but tend to peak among people in their 20s. From an education perspective, internal migration affects relatively few primary school-age children and slightly more secondary school-age youth. But education of better quality in urban areas is a prominent reason for migration among younger people. In Thailand, 21% of youth said they migrated for education.
+
+<Text> The more educated are more likely to relocate on the prospect of higher returns on their education elsewhere (Figure 1). Preferences and aspirations as a result of education also prompt people to leave rural areas irrespective of earning potential. Across 53 countries, the probability of migration doubled among those with primary education, tripled among those with secondary and quadrupled among those with tertiary, compared with those with no education.
+
+<Section-header> FIGURE 1:
+
+<Section-header> The more educated are more likely to migrate
+
+<Section-header> (Figure)
+
+<Section-header> GEM StatLink: http://bit.ly/fig2_3 Source: Bernard et al. (2018).
+
+<Page-footer> 13
+
+<Page-footer> SUMMARY
+
+<Page-header> SUMMARY
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2019
+
+<Text> (Illustration)
+
+<<<CHUNK>>>
+
+<Section-header> Migration improves education outcomes for some but not all
+
+<Text> Rural to urban migration can increase educational attainment in countries where access to education in rural areas is low. Among a group born in selected rural districts in Indonesia, those who migrated to a city as children attained three more years of schooling than those who did not.
+
+<Text> Yet migrant children may not enjoy the same education outcomes as their peers. In Brazil, among adolescents born in 2000/01 in the Northeast region, those who migrated during secondary school had worse progression rates than those who stayed. Educational opportunities of children affected by internal migration may be compromised for several reasons, from precarious legal status to poverty, inadequate government attention, or biases and stereotypes.
+
+<Section-header> INTERNAL MIGRATION CONTROLS AFFECT EDUCATION ACCESS
+
+<Text> In many countries, fears of unsustainable urbanization and rural-urban imbalances have prompted policies to curb migration, which can affect migrants’ access to education in some cases. Viet Nam’s ho-khau system restricted migrants’ access to public education, and poor rural to urban migrants moved to areas underserved by public schools. Recent reforms aim to abolish restrictions, but the legacy of past policies still disadvantages migrants with temporary status.
+
+<Text> China's hukou registration system, which linked access to services to registered place of birth, excluded children of rural migrants from public schools. Significant revisions have taken place in recent years. The government required local authorities to provide education to migrant children in 2006. It abolished public school fees for rural migrant children in 2008 and started decoupling registered residence from access to services in 2014. Since 2016, it has been asking all but the largest cities to ease restrictions further.
+
+<Text> However, barriers to education persist for migrants. Paperwork and other admission requirements can limit access. In Beijing, migrants need five certificates to enrol in public school. Teachers can have discriminatory views
+
+<Page-footer> 14
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2019
+
+<Page-header> SUMMARY
+
+<Text> of migrant youth. Teachers in unauthorized migrant schools may suffer lower pay and lack job security, and parents frequently complain about teacher quality in these schools.
+
+<Section-header> CHILDREN LEFT BEHIND FACE PARTICULAR EDUCATION CHALLENGES
+
+<Text> Migration also affects the education of millions of children left behind with one parent or other In Cambodia, children left behind, especially girls, were more likely to drop out.
+
+<Text> The China Family Development Report 2015 estimated the percentage of left-behind rural children at 35%. Evidence on migration’s effect on the education and well-being of children left behind is mixed. Some studies show a positive impact on performance, but others show left-behind children have lower grades and more mental health problems than their peers.
+
+<Text> Since 2016, China has instated policies aimed at improving care for left-behind children, including calling on local governments to urge parents to appoint a guardian for left-behind children. Boarding schools are a key strategy, but they are often understaffed and underequipped. Better management training for administrative staff is needed to improve child welfare.
+
+<Text> Statistics on boarding schools and students are lacking, although such schools are prevalent in some countries. In Uganda, the share of students boarding hovers at around 15% up to age 13, rising to 40% in the final years of upper secondary education.
+
+<Section-header> SEASONAL LABOUR MIGRATION AFFECTS EDUCATIONAL OPPORTUNITIES
+
+<Text> Seasonal migration, which is a survival strategy for the poor, can disrupt education and expose children to child labour and workplace hazards. In India, a study showed that about 80% of temporary migrant children in seven cities lacked access to education near work sites, and 40% worked, experiencing abuse and exploitation. Recent initiatives by India’s national government aim to ensure school attendance by migrant children by encouraging flexible admission, providing mobile education and improving coordination between sending and receiving states, but there have been many implementation challenges. A pilot programme in Rajasthan state in 2010-2011 at brick kiln work sites saw rampant teacher and student absenteeism due to poor teaching and learning conditions and the need for students to work.
+
+<Section-header> CHILD DOMESTIC WORKERS ARE VULNERABLE TO EXCLUSION FROM EDUCATION
+
+<Section-header> In 2012, around 17.2 a million children aged 5 to 17 were in paid or unpaid domestic work in an employer s home
+
+<Text> In 2012, around 17.2 million children aged 5 to 17 were in paid or unpaid domestic work in an employer's home. Two-thirds were girls. Young girls, for instance in Lima, view domestic work as a way to leave rural areas and continue education, but their workload often ends up preventing their participation.
+
+<Text> Fostering is a common strategy in many African countries. Nearly 10% of Senegalese children were fostered. While boys were more likely to be sent to households placing greater emphasis on education,
+
+<Text> ending up more educated than their siblings, girls were almost four times more likely to help with host household chores and were less likely to be hosted for education reasons.
+
+<Section-header> NOMAD AND PASTORALIST EDUCATION NEEDS ARE NOT ADDRESSED
+
+<Text> Mobility is an intrinsic part of life for nomads and pastoralists, and interventions must recognize their needs. Their enrolment tends to be low, with significant seasonal fluctuation, and students struggle to develop literacy and numeracy skills at the same pace as their peers. In Mongolia, underfunding has weakened the soum boarding schools that catered to the nomadic population, resulting in learning disparities between nomadic and non-nomadic children.
+
+<Page-footer> 15
+
+<Page-header> SUMMARY
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2019
+
+<Text> Many countries with significant nomadic or pastoralist populations have dedicated government departments, commissions or councils, such as the Department of Education for Nomads in Sudan. Efforts focus on adjusting education to seasonality and mobility; examples are residential schools and mobile schools.
+
+<Text> In northern Nigeria, many almgjiri (‘migrant pupils of Islamic knowledge’) are nomadic pastoralists. In Kano state, an intervention targeting 700 traditional teachers focused on engaging with the community and collaborating to select teachers of non-religious subjects.
+
+<Text> A network of schools that students could exit and enter at any time or place might be a viable solution but would require efficient and effective tracking systems. Some countries, including Kenya and Somalia, have made teachers more mobile, travelling with nomads to deliver education.
+
+<Text> Education for nomadic populations should recognize and value their way of life. Vocational education for a nomadic lifestyle can be particularly relevant to pastoralists. The Food and Agriculture Organization of the United Nations has worked with nomadic communities on pastoralist field schools in Djibouti, Ethiopia, Kenya, South Sudan and Uganda since 2012, with courses focusing on livestock management efficiency and mitigating effects of climate change.
+
+<Section-header> INDIGENOUS GROUPS STRUGGLE TO PRESERVE THEIR IDENTITY IN CITIES
+
+<Text> In many places, education for indigenous people has involved forced assimilation through schooling. This legacy is compounded by poverty and migration to urban areas, which often implies further cultural erosion, language loss and discrimination. Loss of language is a major issue for urban indigenous populations. Younger generations in cities in Ecuador, Mexico and Peru are significantly less likely to speak indigenous languages than their rural counterparts.
+
+<Text> Regulatory frameworks on indigenous rights make little reference to indigenous people living in cities. Over 50% of Canada’s indigenous population live in cities. Analyses of urban aboriginal populations showed the importance of education in improving their quality of life and found that incorporating culturally appropriate curricula and practices improved early childhood education outcomes.
+
+<<<CHUNK>>>
+
+<Section-header> Migration challenges education planners in villages and cities
+
+<Text> Rural depopulation means education planners, particularly in high income countries, must balance efficient resource allocation with the welfare of affected communities. Finland closed or consolidated almost 80% of schools with fewer than 50 students —- more than 1,600 in all - between 1990 and 2015. Urbanization and reduced fertility present similar challenges in many middle income countries. The number of rural schools in the Russian Federation fell from 45,000 to fewer than 26,000 between 2000 and 2015. In China, the number of rural primary schools decreased by 52% between 2000 and 2010.
+
+<Text> In considering school consolidation to increase efficiency, governments must recognize the important social role schools play in communities, as well as other benefits. Analysis of data from the 2015 Programme for International Student Assessment (PISA) showed that students from smaller schools had fewer disciplinary, tardiness and absenteeism issues.
+
+<Text> Successful consolidation requires consultation with all parties affected and consideration of costs. The Lithuanian government developed priority measures to preserve small rural primary schools and provided safe transport with hundreds of new buses.
+
+<Page-footer> 16
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2019
+
+<Page-header> SUMMARY
+
+<Text> Some countries encourage rural schools to share resources and learning in order to stay vibrant. Chile has 374 micro-centres for rural teachers to meet and discuss common challenges. Since 2011, the Chinese government has engaged in major renovation and upgrading of small rural school facilities, and non-government organizations (NGOs), local communities and schools have established resource-sharing networks.
+
+<Section-header> MIGRANTS IN SLUMS HAVE FEWER EDUCATIONAL OPPORTUNITIES
+
+<Text> At least 800 million people live in slums. National definitions or estimation methodologies may underestimate the numbers. Many slum dwellers are rural to urban migrants and lack access to basic services, including public education. Eviction and resettlement of slum dwellers raises dropout rates and lowers attendance. In Bangladesh in 2016, the rate of secondary school-age adolescents out of school was twice as high in slums as in other urban areas.
+
+<Text> Education in slums is not a data collection priority, since urbanism debates focus on housing and water and sanitation challenges. The Shack/Slum Dwellers International network collects data in over 30 countries, but its education data are limited. Education activity in slums may be underestimated because of unregistered private schools, which make up for the lack of public schools. In Kibera, Kenya, an open mapping project found 330 schools, while the official estimate was 100. Often the only option in slums, private schools tend to be poorly regulated and employ untrained educators. An initiative to raise teacher quality in Nairobi slums improved student literacy and numeracy outcomes.
+
+<Text> Education needs to be a priority in urbanism debates concerning slums. Securing dweller tenure and establishing rights are key steps towards education provision, as governments are often reluctant to invest in education infrastructure for people who settled on land they did not own. In Argentina, access to land titling was associated with long-term education improvement.
+
+<Text> Rigid registration and documentation requirements often hinder migrant participation in social protection programmes that could benefit their education. In Kenyan slums, the urban social protection programme required national identification, thus precluding the 5% of preselected recipients who were refugees, unable to prove Kenyan nationality or from child-headed households.
+
+<Page-footer> 17
+
+<Page-header> SUMMARY
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2019
+
+<<<CHUNK>>>
+
+<Section-header> International migration
+
+<Text> When people migrate for better work and life opportunities, they have to adjust to new systems, deal with legal and administrative challenges, and tackle linguistic barriers and potential discrimination. In receiving countries, education systems face adjustment costs in accommodating the new arrivals.
+
+<Text> In 2017, there were 258 million international migrants, amounting to 3.4% of the world population. About 64% resided in high income countries, where the share of immigrants as a share of population rose from 10% in 2000 to 14% in 2017. In many Gulf states, including Kuwait, Qatar and the United Arab Emirates, immigrants are the majority group.
+
+<Text> Immigration rates are two to three times the global average in a diverse a set of middle income countries including Costa Rica, Céte d'Ivoire, Malaysia and South Africa. Conversely, countries with emigration rates above 5% of the population include Albania, Georgia, Jamaica, Kyrgyzstan and Nicaragua. The largest migration corridor is Mexico to the United States. Others include eastern Europe to western Europe, northern Africa to southern Europe, and southern Asia to the Gulf states.
+
+<Text> In most Organisation for Economic Co-operation and Development (OECD) countries, at least one-fifth of 15-year-old students were immigrants or had immigrant backgrounds in 2015 (Figure 2). An estimate for this report shows that in 80% of secondary schools in high income countries, at least 5% of students have immigrant backgrounds; in 52%, at least 15% have immigrant backgrounds.
+
+<Section-header> FIGURE 2: In most OECD countries, at least one out of five 15-year-old students was an immigrant or had an immigrant background
+
+<Section-header> (Figure)
+
+<Section-header> GEM StatLink: http://bit.ly/fig3_4
+
+<Text> Note: The figure excludes five countries and territories with even higher rates of students with immigrant backgrounds: Hong Kong, China; Luxembourg; Macao, China; Qatar; and the United Arab Emirates.
+
+<Section-header> Source: GEM Report team analysis based on the 2006 and 2015 PISA and 2015 TIMSS
+
+<Page-footer> 18
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2019
+
+<Page-header> SUMMARY
+
+<<<CHUNK>>>
+
+<Section-header> Migration influences education and is influenced by it
+
+<Text> Migrants are not a random population. Among other differences with non-migrants, they are more educated, which helps them gather better information, respond to economic opportunities, use transferable skills and
+
+<Text> finance emigration. In 2000, global emigration rates were 5.4% for those with tertiary education, 1.8% for secondary and 1.1% for primary.
+
+<Section-header> In 2000, global emigration t rates were 5.47 5.4% for TOr th those with tertiary education, 1.8% for secondary and 11% for primary
+
+<Text> Educational attainment at time of emigration also depends on the conditions under which migrants cross borders: US immigrants from El Salvador, Haiti, Mexico and Nicaragua without proper documentation had more education, on average, than those on temporary contracts but less than those who became legal residents.
+
+<Text> Understanding the impact of migration on educational attainment and achievement involves two key comparisons. The first is between those
+
+<Text> who do or do not migrate, though these groups differ in more than the decision to migrate (e.g. migrants might have had more education even had they stayed). The second is between immigrants and natives, who also differ in more than migration status. In some cases, selective immigration policies may mean immigrants are more educated than natives; in other cases, immigrants may live in poorer areas served by lower-quality schools, a factor in their children having lower educational attainment and achievement.
+
+<Section-header> MIGRATION AFFECTS THE EDUCATION OF THOSE LEFT BEHIND
+
+<Text> Migrants often leave children behind. In the Philippines, an estimated 1.5 million to 3 million children have at least one international migrant parent. The effect of remittances on education can be critical.
+
+<Text> Globally, households received US$613 billion in international remittances in 2017, with US$466 billion going to households in low and middle income countries — three times the volume of official development assistance. India and China received the largest amount in absolute terms but Kyrgyzstan and Tonga led by percentage of gross domestic product.
+
+<Text> In theory, remittances may have a positive or negative effect on education. Diversifying sources of income provides an insurance effect: Families may be less likely to have to cut education expenditure. Yet, although extra income increases household spending, education competes with other expenditure, children may have to replace the migrant’s labour, and lack of parental input can hinder education. Remittances may also create a ‘culture of migration’ in which high returns on low- or semi-skilled labour abroad disincentivize continuing in education.
+
+<Text> In practice, the incidence of international remittances increased household education spending by 35%, on average, according to a set of studies in 18 countries in sub-Saharan Africa and Central, Southern and South-eastern Asia. The effect was even larger in Latin America (53%).
+
+<Text> SDG target 10.c calls for remittance transaction costs to be reduced to less than 3%, on average. The current average is 7.1%. Traditional banks are the most expensive channels, at 11%, and some intermediaries in Africa charge above 20%. Assuming the share of total household spending on education is 4%, reducing remittance costs to 3% could allow households to spend an additional US$1 billion on education per year.
+
+<Text> Several studies suggest that remittances’ overall effects on education outcomes are positive. In the Philippines, a 10% rise in international remittances increased school attendance by more than 10% and reduced child labour by more than three hours per week. Effects can differ by gender. In Jordan, remittances had a positive impact on post-compulsory education attendance only among males.
+
+<Page-footer> 19
+
+<Page-header> SUMMARY
+
+<Page-header> GLOBAL EDUCATION MONITORING REPORT 2019
+
+<Text> (Illustration)
+
+<Text> Positive findings may reflect particularly selective migration corridors or contexts with low enrolment to start with. In some low-skill migration corridors, there is evidence of negative effects on outcomes. International remittances were associated with a large decrease in probability of enrolment in Guatemala, even though those enrolled performed better as a result of remittances. In rural Mexico, left-behind students had poorer education outcomes due to remittances.
+
+<Section-header> MIGRANTS PAY AN EDUCATION PRICE IN DESTINATION COUNTRIES
+
+<Text> In destination countries, immigrants often leave education early. In the European Union, 10% of natives and 19% of foreign-born people aged 18 to 24 left school early in 2017. Dropout can depend on arrival age; outcomes vary considerably by whether students enter host systems at the beginning, middle or end of compulsory education. In the United States, 40% of Mexican immigrants who arrived at age 7 did not complete secondary school, compared with 70% of those who arrived at age 14.
+
+<Text> However, immigrants’ education status improves more quickly than that of natives and those left behind. In Germany, natives whose parents had below-average education progressed more slowly than their immigrant peers. In 8 out of 10 Latin American and Caribbean countries, children of immigrants had, on average, 1.4 more years of education than children of parents who did not migrate.
+
+<Text> Educational attainment gaps span generations. On the 2015 PISA, 49% of first-generation and 61% of second-generation 15-year-old immigrants attained at least level 2 proficiency in reading, mathematics and science, compared with 72% of natives. In Canada, Germany and Italy, natives continue to enjoy an advantage over second-generation immigrants, especially in tertiary education.
+
+<Text> A comparison of second-generation Turkish immigrants across six countries showed that only 5% of those in Germany but 37% of those in France had access to tertiary education. Institutional factors in the latter, such as early access to pre-primary education, late tracking into ability streams in secondary education and access to tertiary education even through lower ability streams, help explain the gap.
+
+<Text> Lower socio-economic status explains about 20% of the immigrant learning gap in the OECD; in some countries, including France and Greece, it can explain as much as half. Immigrant students in OECD countries are nearly twice as likely as natives to repeat a grade.
+
+<Page-footer> 20

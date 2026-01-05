@@ -1,0 +1,164 @@
+[
+  {
+    "en_idx": 0,
+    "matches": [
+      {
+        "ja_idx": 0,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 1,
+    "matches": [
+      {
+        "ja_idx": 3,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 2,
+    "matches": [
+      {
+        "ja_idx": 2,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 3,
+    "matches": [
+      {
+        "ja_idx": 1,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 4,
+    "matches": [
+      {
+        "ja_idx": 10,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 5,
+    "matches": [
+      {
+        "ja_idx": 11,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 6,
+    "matches": [
+      {
+        "ja_idx": 12,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 7,
+    "matches": [
+      {
+        "ja_idx": 13,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 8,
+    "matches": [
+      {
+        "ja_idx": 14,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 9,
+    "matches": [
+      {
+        "ja_idx": 15,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 10,
+    "matches": [
+      {
+        "ja_idx": 16,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 11,
+    "matches": [
+      {
+        "ja_idx": 17,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 12,
+    "matches": [
+      {
+        "ja_idx": 4,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 13,
+    "matches": [
+      {
+        "ja_idx": 5,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 14,
+    "matches": [
+      {
+        "ja_idx": 6,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 15,
+    "matches": [
+      {
+        "ja_idx": 7,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 16,
+    "matches": [
+      {
+        "ja_idx": 8,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "en_idx": 17,
+    "matches": [
+      {
+        "ja_idx": 9,
+        "score": 1.0
+      }
+    ]
+  }
+]
