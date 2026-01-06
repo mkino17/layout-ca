@@ -80,8 +80,6 @@ Note: GPU is recommended. You can still run on CPU, but it will take time proces
 
 Output will look like the following.
 
-<details>
-
 ```bash
 Evalset: unesco
 =======================================================
@@ -106,7 +104,6 @@ sent | 1153/1409         | 0.303 0.247 0.272
 
 =======================================================
 ```
-</details>
 
 &nbsp;
 
