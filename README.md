@@ -117,7 +117,7 @@ python main.py chunk-detect --pdf_dir data --langs en ja --model_ocr tesseract y
 ```
 The code above will create `jpg_pages` directory in which the pdf files are formatted as jpg images. Following the processes, you'll have `result` directory in which the text/layout information is stored in json or txt files in different units; tokens, segments, segments_ordered, chunks. 
 
-Both `--langs` and `--model_ocr` reflect `source` `target` order. Yomitoku is an OCR package for Japanese. Other laguages are available within the availability of Tesseract. Language codes can be checked in [codes/ocr_object_detection.py](codes/ocr_object_detection.py). See `main.py` for other arguments.
+Both `--langs` and `--model_ocr` reflect `source` `target` order. Yomitoku is an OCR package for Japanese. Other languages are available, subject to Tesseract’s language coverage. Language codes can be checked in [codes/ocr_object_detection.py](codes/ocr_object_detection.py). See `main.py` for other arguments.
 
 
 #### (ii) Chunk alignment
