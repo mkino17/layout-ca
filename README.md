@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ## Evaluation
 
 To reproduce the experiments reported in the paper, run the code below.
-The script processes the evaluation data in `data/to_eval` and outputs the results to `result/eval`.(See [data](data))
+The script processes the evaluation data in `data/to_eval` and outputs the results to `result/eval`. (See [data](data))
 
 ```bash
 python evaluation.py --evalset unesco --align_method vecalign --threshs_height_r 1.3 1.3
