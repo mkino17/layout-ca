@@ -119,9 +119,10 @@ The code above will create `jpg_pages` directory in which the pdf files are form
 
 Both `--langs` and `--model_ocr` reflect `source` `target` order.  
 
-##### Language Availability #####
+##### *Language Availability #####
 Yomitoku is an OCR package for Japanese. Other languages are available, subject to Tesseract’s language coverage. Language codes can be checked in [codes/ocr_object_detection.py](codes/ocr_object_detection.py). See `main.py` for other arguments.
 
+&nbsp;
 
 #### (ii) Chunk alignment
 
@@ -129,6 +130,8 @@ Yomitoku is an OCR package for Japanese. Other languages are available, subject 
 python main.py chunk-align --mode align
 ```
 This will create `result/matches.json` in which the paired chunks are shown. You can add `--thresh_chunk_sim` (default=0.3) for minimum similarity score of aligned chunk pair. `--mode train` will train the score weights with `data/to_dev` data.
+
+&nbsp;
 
 #### (iii) Sentence alignment
 
@@ -140,8 +143,7 @@ This will create `result/sentences_aligned` and final txt files will be generate
 As mentioned in Evaluation, `vecalign` is recommended for the convenience. The model will load embedder from [sentence-transfomers](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2). For `bleualign`, it will load [NLLB](https://huggingface.co/facebook/nllb-200-distilled-600M), thus will take more storage and also running time. 
 
 &nbsp;
-
-
+&nbsp;
 
 
 ## Citation
