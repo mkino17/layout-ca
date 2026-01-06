@@ -33,7 +33,7 @@ A *chunk* in this framework denotes a coherent textual unit in which readers per
 This process consists of 3 subprocesses, which are orderly OCR & Object Detection, Reading Order Detection, and Chunk Split. See the [paper](#citation) for details. For object detection, we use pre-trained [YOLO](https://huggingface.co/hantian/yolo-doclaynet). 
 
 #### (ii) Chunk alignment
-This process matches source and target chunks. It calls multilingual [Sentence-BERT](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2) and embeds the texual information of each chunk. It calculates similarity scores between the source and target chunks and matches the proper ones which meets a threshhold. The score function is explained in [paper](#citation).
+This process matches source and target chunks. It calls multilingual [Sentence-BERT](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2) and embeds the texual information of each chunk. It calculates similarity scores between the source and target chunks and matches the proper ones which meets a threshold. The score function is explained in [paper](#citation).
 
 #### (iii) Sentence alignment
 This process simply applies an existing sentence alignment model over the chunk-aligned texts. [Vecalign](https://github.com/thompsonb/vecalign) and [Bleualign](https://github.com/rsennrich/Bleualign) are implemented as default.
