@@ -11,7 +11,7 @@ For evaluation and development, we provide a curated dataset derived from biling
   <img src="../fig/sample-en.jpg" width="25%">
 </p>
 <p align="center">
-  <em>Figure 3: Source (left) and target (right) document images.</em>
+  <em>Figure : Source (left) and target (right) document images.</em>
 </p>
 
 
