@@ -151,4 +151,18 @@ As mentioned in Evaluation, `vecalign` is recommended for the convenience. The m
 
 
 ## Citation
-To be filled. 
+You can read our paper [here](https://aclanthology.org/2026.amta-research.8/).
+```bash
+@inproceedings{kinouchi-etal-2026-layout,
+    title = "Layout-Based Chunk Alignment: Utilizing Visual Information to Collect Parallel Texts From Image Documents",
+    author = "Kinouchi, Masaki and Nohara, Kayoko and Zhu, Xinru  and Miura, Yuma",
+    editor = "Briakou, Eleftheria and Gwinnup, Jeremy and Goel, Shivali",
+    booktitle = "Proceedings of the 17th Conference of the Association for Machine Translation in the {A}mericas (Volume 1: Research Track)",
+    month = aug,
+    year = "2026",
+    address = "Qu{\'e}bec City, Canada",
+    publisher = "Association for Machine Translation in the Americas",
+    url = "https://aclanthology.org/2026.amta-research.8/",
+    pages = "135--145",
+}
+```
